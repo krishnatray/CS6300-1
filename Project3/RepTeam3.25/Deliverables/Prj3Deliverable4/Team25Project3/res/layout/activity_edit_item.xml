@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical" >
+    
+        <LinearLayout
+        android:id="@+id/group41"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" >
+
+       <TextView
+        android:id="@+id/textView41"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/item_name"
+        tools:context=".EditItemActivity" />
+
+
+               <EditText
+            android:id="@+id/editText41"
+            android:layout_width="0dip"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:hint="@string/item_name_default"
+            android:inputType="text"
+            android:ems="10" >
+
+            <requestFocus />
+        </EditText>
+        
+    </LinearLayout>
+    
+        
+        
+                <LinearLayout
+        android:id="@+id/group42"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" >
+
+       <TextView
+        android:id="@+id/textView42"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/item_note"
+        tools:context=".EditItemActivity" />
+
+
+               <EditText
+            android:id="@+id/editText42"
+            android:layout_width="0dip"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:hint="@string/item_note_default"
+            android:inputType="text"
+            android:ems="10" >
+
+        </EditText>
+        
+    </LinearLayout>
+
+                <CheckBox
+                    android:id="@+id/checkBox41"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/set_due_time" />
+
+                <DatePicker
+                    android:id="@+id/datePicker41"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content" />
+
+                                <LinearLayout
+        android:id="@+id/group44"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" >
+                       <TextView
+        android:id="@+id/textView43"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/priority"
+        tools:context=".EditItemActivity" />
+                <SeekBar
+                    android:id="@+id/seekBar41"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content" 
+                    android:minWidth="200dp"
+                    android:max="2"
+                    />
+                </LinearLayout>
+                  <LinearLayout
+        android:id="@+id/group45"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" >
+                <Button
+                    android:id="@+id/cancel_button"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/cancel_button" 
+                    android:onClick="onCancelClick"/>
+                <Button
+                    android:id="@+id/save_button"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/save_button" 
+                    android:onClick="onSaveClick"/>
+                </LinearLayout>
+</LinearLayout>
+</ScrollView>
+
+
+

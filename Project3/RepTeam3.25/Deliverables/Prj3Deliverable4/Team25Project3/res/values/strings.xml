@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Team25Project3</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    
+    <string name="title_activity_main">MTM</string>
+    <string name="add_user">Add user</string>
+    <string name="title_activity_add_user">Add User</string>
+    <string name="user_name">User name</string>
+    <string name="user_pwd">Password</string>
+    <string name="confirm_pwd">Confirm password</string>
+    <string name="create_account">Add user</string>
+    <string name="login">Login</string>
+    <string name="title_activity_to_do_list">TODO List</string>
+    <string name="add_item">Add task</string>
+    <string name="title_activity_edit_item">Edit Item</string>
+    <string name="item_name">Task name</string>
+    <string name="item_name_default">name</string>
+    <string name="item_note">Note</string>
+    <string name="item_note_default">note</string>
+    <string name="cancel_button">Cancel</string>
+    <string name="save_button">Save</string>
+    <string name="set_due_time">Set due time?</string>
+    <string name="task_checked">Completed?</string>
+    <string name="priority">Priority</string>
+    <string name="popmenu1">Edit task</string>
+    <string name="popmenu2">Delete task</string>
+    <string name="hide_checked">Hide completed tasks</string>
+    <string name="sortbyduedate">Sort by due date</string>
+    <string name="sortbypriority">Sort by priority</string>
+    <string name="changepwd">Change password</string>
+    <string name="sync">Sync to cloud</string>
+    <string name="logout">Logout</string>
+
+</resources>

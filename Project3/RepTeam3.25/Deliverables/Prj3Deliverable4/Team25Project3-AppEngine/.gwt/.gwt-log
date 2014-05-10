@@ -1,0 +1,2219 @@
+Public resources found in...
+Translatable source found in...
+Found 0 cached/archived units.  Used 0 / 2732 units from cache.
+Compiling...
+   50% complete (ETR: 4 seconds)
+   50% complete (ETR: 4 seconds)
+   50% complete (ETR: 4 seconds)
+   50% complete (ETR: 4 seconds)
+   50% complete (ETR: 4 seconds)
+   50% complete (ETR: 4 seconds)
+   60% complete (ETR: 3 seconds)
+   70% complete (ETR: 2 seconds)
+   80% complete (ETR: 2 seconds)
+   90% complete (ETR: 1 seconds)
+   100% complete (ETR: 0 seconds)
+   Compilation completed in 12.58 seconds
+Removing invalidated units
+Finding entry point classes
+Rebinding com.google.gwt.i18n.client.impl.LocaleInfoImpl
+   Invoking generator com.google.gwt.i18n.rebind.LocaleInfoGenerator
+      Processing interface com.google.gwt.i18n.client.constants.NumberConstantsImpl
+         Generating method body for notANumber()
+         Generating method body for currencyPattern()
+         Generating method body for decimalPattern()
+         Generating method body for decimalSeparator()
+         Generating method body for defCurrencyCode()
+         Generating method body for exponentialSymbol()
+         Generating method body for globalCurrencyPattern()
+         Generating method body for groupingSeparator()
+         Generating method body for infinity()
+         Generating method body for minusSign()
+         Generating method body for monetaryGroupingSeparator()
+         Generating method body for monetarySeparator()
+         Generating method body for percent()
+         Generating method body for percentPattern()
+         Generating method body for perMill()
+         Generating method body for plusSign()
+         Generating method body for scientificPattern()
+         Generating method body for simpleCurrencyPattern()
+         Generating method body for zeroDigit()
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.03 seconds
+      Removing invalidated units
+Public resources found in...
+Translatable source found in...
+Found 0 cached/archived units.  Used 0 / 2732 units from cache.
+Compiling...
+   60% complete (ETR: 3 seconds)
+   60% complete (ETR: 3 seconds)
+   60% complete (ETR: 3 seconds)
+   60% complete (ETR: 3 seconds)
+   60% complete (ETR: 3 seconds)
+   60% complete (ETR: 3 seconds)
+   60% complete (ETR: 3 seconds)
+   70% complete (ETR: 2 seconds)
+   80% complete (ETR: 1 seconds)
+   90% complete (ETR: 1 seconds)
+   100% complete (ETR: 0 seconds)
+   Compilation completed in 11.91 seconds
+Removing invalidated units
+Finding entry point classes
+Rebinding com.google.gwt.i18n.client.impl.LocaleInfoImpl
+   Invoking generator com.google.gwt.i18n.rebind.LocaleInfoGenerator
+      Processing interface com.google.gwt.i18n.client.constants.NumberConstantsImpl
+         Generating method body for notANumber()
+         Generating method body for currencyPattern()
+         Generating method body for decimalPattern()
+         Generating method body for decimalSeparator()
+         Generating method body for defCurrencyCode()
+         Generating method body for exponentialSymbol()
+         Generating method body for globalCurrencyPattern()
+         Generating method body for groupingSeparator()
+         Generating method body for infinity()
+         Generating method body for minusSign()
+         Generating method body for monetaryGroupingSeparator()
+         Generating method body for monetarySeparator()
+         Generating method body for percent()
+         Generating method body for percentPattern()
+         Generating method body for perMill()
+         Generating method body for plusSign()
+         Generating method body for scientificPattern()
+         Generating method body for simpleCurrencyPattern()
+         Generating method body for zeroDigit()
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.03 seconds
+      Removing invalidated units
+Rebinding com.google.gwt.user.cellview.client.CellList.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.google.gwt.user.cellview.client.CellList.Template
+         Generating method body for div()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding com.google.gwt.user.cellview.client.CellList.Resources
+   Invoking generator com.google.gwt.resources.rebind.context.InlineClientBundleGenerator
+      Preparing method cellListSelectedBackground
+         Adding image 'com.google.gwt.user.cellview.client.CellList.Resources.cellListSelectedBackground'
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Public resources found in...
+Translatable source found in...
+Found 2732 cached/archived units.  Used 2732 / 2732 units from cache.
+Compiling...
+   Compilation completed in 0.00 seconds
+Removing invalidated units
+Finding entry point classes
+Rebinding com.google.gwt.i18n.client.impl.LocaleInfoImpl
+   Invoking generator com.google.gwt.i18n.rebind.LocaleInfoGenerator
+      Processing interface com.google.gwt.i18n.client.constants.NumberConstantsImpl
+         Generating method body for notANumber()
+         Generating method body for currencyPattern()
+         Generating method body for decimalPattern()
+         Generating method body for decimalSeparator()
+         Generating method body for defCurrencyCode()
+         Generating method body for exponentialSymbol()
+         Generating method body for globalCurrencyPattern()
+         Generating method body for groupingSeparator()
+         Generating method body for infinity()
+         Generating method body for minusSign()
+         Generating method body for monetaryGroupingSeparator()
+         Generating method body for monetarySeparator()
+         Generating method body for percent()
+         Generating method body for percentPattern()
+         Generating method body for perMill()
+         Generating method body for plusSign()
+         Generating method body for scientificPattern()
+         Generating method body for simpleCurrencyPattern()
+         Generating method body for zeroDigit()
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding com.google.gwt.user.cellview.client.CellList.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.google.gwt.user.cellview.client.CellList.Template
+         Generating method body for div()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding com.google.gwt.user.cellview.client.CellList.Resources
+   Invoking generator com.google.gwt.resources.rebind.context.InlineClientBundleGenerator
+      Preparing method cellListSelectedBackground
+         Adding image 'com.google.gwt.user.cellview.client.CellList.Resources.cellListSelectedBackground'
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.03 seconds
+      Removing invalidated units
+Public resources found in...
+Translatable source found in...
+Found 2732 cached/archived units.  Used 2732 / 2732 units from cache.
+Compiling...
+   Compilation completed in 0.00 seconds
+Removing invalidated units
+Finding entry point classes
+Rebinding com.google.gwt.i18n.client.impl.LocaleInfoImpl
+   Invoking generator com.google.gwt.i18n.rebind.LocaleInfoGenerator
+      Processing interface com.google.gwt.i18n.client.constants.NumberConstantsImpl
+         Generating method body for notANumber()
+         Generating method body for currencyPattern()
+         Generating method body for decimalPattern()
+         Generating method body for decimalSeparator()
+         Generating method body for defCurrencyCode()
+         Generating method body for exponentialSymbol()
+         Generating method body for globalCurrencyPattern()
+         Generating method body for groupingSeparator()
+         Generating method body for infinity()
+         Generating method body for minusSign()
+         Generating method body for monetaryGroupingSeparator()
+         Generating method body for monetarySeparator()
+         Generating method body for percent()
+         Generating method body for percentPattern()
+         Generating method body for perMill()
+         Generating method body for plusSign()
+         Generating method body for scientificPattern()
+         Generating method body for simpleCurrencyPattern()
+         Generating method body for zeroDigit()
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding com.google.gwt.user.cellview.client.CellList.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.google.gwt.user.cellview.client.CellList.Template
+         Generating method body for div()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding com.google.gwt.user.cellview.client.CellList.Resources
+   Invoking generator com.google.gwt.resources.rebind.context.InlineClientBundleGenerator
+      Preparing method cellListSelectedBackground
+         Adding image 'com.google.gwt.user.cellview.client.CellList.Resources.cellListSelectedBackground'
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.03 seconds
+      Removing invalidated units
+Public resources found in...
+Translatable source found in...
+Found 2732 cached/archived units.  Used 2732 / 2732 units from cache.
+Compiling...
+   Compilation completed in 0.00 seconds
+Removing invalidated units
+Finding entry point classes
+Rebinding com.google.gwt.i18n.client.impl.LocaleInfoImpl
+   Invoking generator com.google.gwt.i18n.rebind.LocaleInfoGenerator
+      Processing interface com.google.gwt.i18n.client.constants.NumberConstantsImpl
+         Generating method body for notANumber()
+         Generating method body for currencyPattern()
+         Generating method body for decimalPattern()
+         Generating method body for decimalSeparator()
+         Generating method body for defCurrencyCode()
+         Generating method body for exponentialSymbol()
+         Generating method body for globalCurrencyPattern()
+         Generating method body for groupingSeparator()
+         Generating method body for infinity()
+         Generating method body for minusSign()
+         Generating method body for monetaryGroupingSeparator()
+         Generating method body for monetarySeparator()
+         Generating method body for percent()
+         Generating method body for percentPattern()
+         Generating method body for perMill()
+         Generating method body for plusSign()
+         Generating method body for scientificPattern()
+         Generating method body for simpleCurrencyPattern()
+         Generating method body for zeroDigit()
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding com.google.gwt.user.cellview.client.CellList.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.google.gwt.user.cellview.client.CellList.Template
+         Generating method body for div()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding com.google.gwt.user.cellview.client.CellList.Resources
+   Invoking generator com.google.gwt.resources.rebind.context.InlineClientBundleGenerator
+      Preparing method cellListSelectedBackground
+         Adding image 'com.google.gwt.user.cellview.client.CellList.Resources.cellListSelectedBackground'
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.03 seconds
+      Removing invalidated units
+Public resources found in...
+Translatable source found in...
+Found 2732 cached/archived units.  Used 2732 / 2732 units from cache.
+Compiling...
+   Compilation completed in 0.00 seconds
+Removing invalidated units
+Finding entry point classes
+Rebinding com.google.gwt.i18n.client.impl.LocaleInfoImpl
+   Invoking generator com.google.gwt.i18n.rebind.LocaleInfoGenerator
+      Processing interface com.google.gwt.i18n.client.constants.NumberConstantsImpl
+         Generating method body for notANumber()
+         Generating method body for currencyPattern()
+         Generating method body for decimalPattern()
+         Generating method body for decimalSeparator()
+         Generating method body for defCurrencyCode()
+         Generating method body for exponentialSymbol()
+         Generating method body for globalCurrencyPattern()
+         Generating method body for groupingSeparator()
+         Generating method body for infinity()
+         Generating method body for minusSign()
+         Generating method body for monetaryGroupingSeparator()
+         Generating method body for monetarySeparator()
+         Generating method body for percent()
+         Generating method body for percentPattern()
+         Generating method body for perMill()
+         Generating method body for plusSign()
+         Generating method body for scientificPattern()
+         Generating method body for simpleCurrencyPattern()
+         Generating method body for zeroDigit()
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding com.google.gwt.user.cellview.client.CellList.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.google.gwt.user.cellview.client.CellList.Template
+         Generating method body for div()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding com.google.gwt.user.cellview.client.CellList.Resources
+   Invoking generator com.google.gwt.resources.rebind.context.InlineClientBundleGenerator
+      Preparing method cellListSelectedBackground
+         Adding image 'com.google.gwt.user.cellview.client.CellList.Resources.cellListSelectedBackground'
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.03 seconds
+      Removing invalidated units
+Public resources found in...
+Translatable source found in...
+Found 2732 cached/archived units.  Used 2732 / 2732 units from cache.
+Compiling...
+   Compilation completed in 0.00 seconds
+Removing invalidated units
+Finding entry point classes
+Rebinding com.google.gwt.i18n.client.impl.LocaleInfoImpl
+   Invoking generator com.google.gwt.i18n.rebind.LocaleInfoGenerator
+      Processing interface com.google.gwt.i18n.client.constants.NumberConstantsImpl
+         Generating method body for notANumber()
+         Generating method body for currencyPattern()
+         Generating method body for decimalPattern()
+         Generating method body for decimalSeparator()
+         Generating method body for defCurrencyCode()
+         Generating method body for exponentialSymbol()
+         Generating method body for globalCurrencyPattern()
+         Generating method body for groupingSeparator()
+         Generating method body for infinity()
+         Generating method body for minusSign()
+         Generating method body for monetaryGroupingSeparator()
+         Generating method body for monetarySeparator()
+         Generating method body for percent()
+         Generating method body for percentPattern()
+         Generating method body for perMill()
+         Generating method body for plusSign()
+         Generating method body for scientificPattern()
+         Generating method body for simpleCurrencyPattern()
+         Generating method body for zeroDigit()
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding com.google.gwt.user.cellview.client.CellList.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.google.gwt.user.cellview.client.CellList.Template
+         Generating method body for div()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding com.google.gwt.user.cellview.client.CellList.Resources
+   Invoking generator com.google.gwt.resources.rebind.context.InlineClientBundleGenerator
+      Preparing method cellListSelectedBackground
+         Adding image 'com.google.gwt.user.cellview.client.CellList.Resources.cellListSelectedBackground'
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.03 seconds
+      Removing invalidated units
+Public resources found in...
+Translatable source found in...
+Found 2732 cached/archived units.  Used 2732 / 2732 units from cache.
+Compiling...
+   Compilation completed in 0.00 seconds
+Removing invalidated units
+Finding entry point classes
+Rebinding com.google.gwt.i18n.client.impl.LocaleInfoImpl
+   Invoking generator com.google.gwt.i18n.rebind.LocaleInfoGenerator
+      Processing interface com.google.gwt.i18n.client.constants.NumberConstantsImpl
+         Generating method body for notANumber()
+         Generating method body for currencyPattern()
+         Generating method body for decimalPattern()
+         Generating method body for decimalSeparator()
+         Generating method body for defCurrencyCode()
+         Generating method body for exponentialSymbol()
+         Generating method body for globalCurrencyPattern()
+         Generating method body for groupingSeparator()
+         Generating method body for infinity()
+         Generating method body for minusSign()
+         Generating method body for monetaryGroupingSeparator()
+         Generating method body for monetarySeparator()
+         Generating method body for percent()
+         Generating method body for percentPattern()
+         Generating method body for perMill()
+         Generating method body for plusSign()
+         Generating method body for scientificPattern()
+         Generating method body for simpleCurrencyPattern()
+         Generating method body for zeroDigit()
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding com.google.gwt.user.cellview.client.CellList.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.google.gwt.user.cellview.client.CellList.Template
+         Generating method body for div()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding com.google.gwt.user.cellview.client.CellList.Resources
+   Invoking generator com.google.gwt.resources.rebind.context.InlineClientBundleGenerator
+      Preparing method cellListSelectedBackground
+         Adding image 'com.google.gwt.user.cellview.client.CellList.Resources.cellListSelectedBackground'
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.03 seconds
+      Removing invalidated units
+Public resources found in...
+Translatable source found in...
+Found 2732 cached/archived units.  Used 2732 / 2732 units from cache.
+Compiling...
+   Compilation completed in 0.00 seconds
+Removing invalidated units
+Finding entry point classes
+Rebinding com.google.gwt.i18n.client.impl.LocaleInfoImpl
+   Invoking generator com.google.gwt.i18n.rebind.LocaleInfoGenerator
+      Processing interface com.google.gwt.i18n.client.constants.NumberConstantsImpl
+         Generating method body for notANumber()
+         Generating method body for currencyPattern()
+         Generating method body for decimalPattern()
+         Generating method body for decimalSeparator()
+         Generating method body for defCurrencyCode()
+         Generating method body for exponentialSymbol()
+         Generating method body for globalCurrencyPattern()
+         Generating method body for groupingSeparator()
+         Generating method body for infinity()
+         Generating method body for minusSign()
+         Generating method body for monetaryGroupingSeparator()
+         Generating method body for monetarySeparator()
+         Generating method body for percent()
+         Generating method body for percentPattern()
+         Generating method body for perMill()
+         Generating method body for plusSign()
+         Generating method body for scientificPattern()
+         Generating method body for simpleCurrencyPattern()
+         Generating method body for zeroDigit()
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding com.google.gwt.user.cellview.client.CellList.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.google.gwt.user.cellview.client.CellList.Template
+         Generating method body for div()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding com.google.gwt.user.cellview.client.CellList.Resources
+   Invoking generator com.google.gwt.resources.rebind.context.InlineClientBundleGenerator
+      Preparing method cellListSelectedBackground
+         Adding image 'com.google.gwt.user.cellview.client.CellList.Resources.cellListSelectedBackground'
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.03 seconds
+      Removing invalidated units
+Public resources found in...
+Translatable source found in...
+Found 2732 cached/archived units.  Used 2732 / 2732 units from cache.
+Compiling...
+   Compilation completed in 0.00 seconds
+Removing invalidated units
+Finding entry point classes
+Rebinding com.google.gwt.i18n.client.impl.LocaleInfoImpl
+   Invoking generator com.google.gwt.i18n.rebind.LocaleInfoGenerator
+      Processing interface com.google.gwt.i18n.client.constants.NumberConstantsImpl
+         Generating method body for notANumber()
+         Generating method body for currencyPattern()
+         Generating method body for decimalPattern()
+         Generating method body for decimalSeparator()
+         Generating method body for defCurrencyCode()
+         Generating method body for exponentialSymbol()
+         Generating method body for globalCurrencyPattern()
+         Generating method body for groupingSeparator()
+         Generating method body for infinity()
+         Generating method body for minusSign()
+         Generating method body for monetaryGroupingSeparator()
+         Generating method body for monetarySeparator()
+         Generating method body for percent()
+         Generating method body for percentPattern()
+         Generating method body for perMill()
+         Generating method body for plusSign()
+         Generating method body for scientificPattern()
+         Generating method body for simpleCurrencyPattern()
+         Generating method body for zeroDigit()
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding com.google.gwt.user.cellview.client.CellList.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.google.gwt.user.cellview.client.CellList.Template
+         Generating method body for div()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding com.google.gwt.user.cellview.client.CellList.Resources
+   Invoking generator com.google.gwt.resources.rebind.context.InlineClientBundleGenerator
+      Preparing method cellListSelectedBackground
+         Adding image 'com.google.gwt.user.cellview.client.CellList.Resources.cellListSelectedBackground'
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.03 seconds
+      Removing invalidated units
+Public resources found in...
+Translatable source found in...
+Found 2732 cached/archived units.  Used 2732 / 2732 units from cache.
+Compiling...
+   Compilation completed in 0.00 seconds
+Removing invalidated units
+Finding entry point classes
+Rebinding com.google.gwt.i18n.client.impl.LocaleInfoImpl
+   Invoking generator com.google.gwt.i18n.rebind.LocaleInfoGenerator
+      Processing interface com.google.gwt.i18n.client.constants.NumberConstantsImpl
+         Generating method body for notANumber()
+         Generating method body for currencyPattern()
+         Generating method body for decimalPattern()
+         Generating method body for decimalSeparator()
+         Generating method body for defCurrencyCode()
+         Generating method body for exponentialSymbol()
+         Generating method body for globalCurrencyPattern()
+         Generating method body for groupingSeparator()
+         Generating method body for infinity()
+         Generating method body for minusSign()
+         Generating method body for monetaryGroupingSeparator()
+         Generating method body for monetarySeparator()
+         Generating method body for percent()
+         Generating method body for percentPattern()
+         Generating method body for perMill()
+         Generating method body for plusSign()
+         Generating method body for scientificPattern()
+         Generating method body for simpleCurrencyPattern()
+         Generating method body for zeroDigit()
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding com.google.gwt.user.cellview.client.CellList.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.google.gwt.user.cellview.client.CellList.Template
+         Generating method body for div()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding com.google.gwt.user.cellview.client.CellList.Resources
+   Invoking generator com.google.gwt.resources.rebind.context.InlineClientBundleGenerator
+      Preparing method cellListSelectedBackground
+         Adding image 'com.google.gwt.user.cellview.client.CellList.Resources.cellListSelectedBackground'
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.03 seconds
+      Removing invalidated units
+Public resources found in...
+Translatable source found in...
+Found 2732 cached/archived units.  Used 2732 / 2732 units from cache.
+Compiling...
+   Compilation completed in 0.00 seconds
+Removing invalidated units
+Finding entry point classes
+Rebinding com.google.gwt.i18n.client.impl.LocaleInfoImpl
+   Invoking generator com.google.gwt.i18n.rebind.LocaleInfoGenerator
+      Processing interface com.google.gwt.i18n.client.constants.NumberConstantsImpl
+         Generating method body for notANumber()
+         Generating method body for currencyPattern()
+         Generating method body for decimalPattern()
+         Generating method body for decimalSeparator()
+         Generating method body for defCurrencyCode()
+         Generating method body for exponentialSymbol()
+         Generating method body for globalCurrencyPattern()
+         Generating method body for groupingSeparator()
+         Generating method body for infinity()
+         Generating method body for minusSign()
+         Generating method body for monetaryGroupingSeparator()
+         Generating method body for monetarySeparator()
+         Generating method body for percent()
+         Generating method body for percentPattern()
+         Generating method body for perMill()
+         Generating method body for plusSign()
+         Generating method body for scientificPattern()
+         Generating method body for simpleCurrencyPattern()
+         Generating method body for zeroDigit()
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding com.google.gwt.user.cellview.client.CellList.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.google.gwt.user.cellview.client.CellList.Template
+         Generating method body for div()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding com.google.gwt.user.cellview.client.CellList.Resources
+   Invoking generator com.google.gwt.resources.rebind.context.InlineClientBundleGenerator
+      Preparing method cellListSelectedBackground
+         Adding image 'com.google.gwt.user.cellview.client.CellList.Resources.cellListSelectedBackground'
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.03 seconds
+      Removing invalidated units
+Public resources found in...
+Translatable source found in...
+Found 2732 cached/archived units.  Used 2732 / 2732 units from cache.
+Compiling...
+   Compilation completed in 0.00 seconds
+Removing invalidated units
+Finding entry point classes
+Rebinding com.google.gwt.i18n.client.impl.LocaleInfoImpl
+   Invoking generator com.google.gwt.i18n.rebind.LocaleInfoGenerator
+      Processing interface com.google.gwt.i18n.client.constants.NumberConstantsImpl
+         Generating method body for notANumber()
+         Generating method body for currencyPattern()
+         Generating method body for decimalPattern()
+         Generating method body for decimalSeparator()
+         Generating method body for defCurrencyCode()
+         Generating method body for exponentialSymbol()
+         Generating method body for globalCurrencyPattern()
+         Generating method body for groupingSeparator()
+         Generating method body for infinity()
+         Generating method body for minusSign()
+         Generating method body for monetaryGroupingSeparator()
+         Generating method body for monetarySeparator()
+         Generating method body for percent()
+         Generating method body for percentPattern()
+         Generating method body for perMill()
+         Generating method body for plusSign()
+         Generating method body for scientificPattern()
+         Generating method body for simpleCurrencyPattern()
+         Generating method body for zeroDigit()
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding com.google.gwt.user.cellview.client.CellList.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.google.gwt.user.cellview.client.CellList.Template
+         Generating method body for div()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding com.google.gwt.user.cellview.client.CellList.Resources
+   Invoking generator com.google.gwt.resources.rebind.context.InlineClientBundleGenerator
+      Preparing method cellListSelectedBackground
+         Adding image 'com.google.gwt.user.cellview.client.CellList.Resources.cellListSelectedBackground'
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.03 seconds
+      Removing invalidated units
+Public resources found in...
+Translatable source found in...
+Found 2732 cached/archived units.  Used 2732 / 2732 units from cache.
+Compiling...
+   Compilation completed in 0.00 seconds
+Removing invalidated units
+Finding entry point classes
+Rebinding com.google.gwt.i18n.client.impl.LocaleInfoImpl
+   Invoking generator com.google.gwt.i18n.rebind.LocaleInfoGenerator
+      Processing interface com.google.gwt.i18n.client.constants.NumberConstantsImpl
+         Generating method body for notANumber()
+         Generating method body for currencyPattern()
+         Generating method body for decimalPattern()
+         Generating method body for decimalSeparator()
+         Generating method body for defCurrencyCode()
+         Generating method body for exponentialSymbol()
+         Generating method body for globalCurrencyPattern()
+         Generating method body for groupingSeparator()
+         Generating method body for infinity()
+         Generating method body for minusSign()
+         Generating method body for monetaryGroupingSeparator()
+         Generating method body for monetarySeparator()
+         Generating method body for percent()
+         Generating method body for percentPattern()
+         Generating method body for perMill()
+         Generating method body for plusSign()
+         Generating method body for scientificPattern()
+         Generating method body for simpleCurrencyPattern()
+         Generating method body for zeroDigit()
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding com.google.gwt.user.cellview.client.CellList.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.google.gwt.user.cellview.client.CellList.Template
+         Generating method body for div()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding com.google.gwt.user.cellview.client.CellList.Resources
+   Invoking generator com.google.gwt.resources.rebind.context.InlineClientBundleGenerator
+      Preparing method cellListSelectedBackground
+         Adding image 'com.google.gwt.user.cellview.client.CellList.Resources.cellListSelectedBackground'
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.03 seconds
+      Removing invalidated units
+Public resources found in...
+Translatable source found in...
+Found 2732 cached/archived units.  Used 2732 / 2732 units from cache.
+Compiling...
+   Compilation completed in 0.00 seconds
+Removing invalidated units
+Finding entry point classes
+Rebinding com.google.gwt.i18n.client.impl.LocaleInfoImpl
+   Invoking generator com.google.gwt.i18n.rebind.LocaleInfoGenerator
+      Processing interface com.google.gwt.i18n.client.constants.NumberConstantsImpl
+         Generating method body for notANumber()
+         Generating method body for currencyPattern()
+         Generating method body for decimalPattern()
+         Generating method body for decimalSeparator()
+         Generating method body for defCurrencyCode()
+         Generating method body for exponentialSymbol()
+         Generating method body for globalCurrencyPattern()
+         Generating method body for groupingSeparator()
+         Generating method body for infinity()
+         Generating method body for minusSign()
+         Generating method body for monetaryGroupingSeparator()
+         Generating method body for monetarySeparator()
+         Generating method body for percent()
+         Generating method body for percentPattern()
+         Generating method body for perMill()
+         Generating method body for plusSign()
+         Generating method body for scientificPattern()
+         Generating method body for simpleCurrencyPattern()
+         Generating method body for zeroDigit()
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding com.google.gwt.user.cellview.client.CellList.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.google.gwt.user.cellview.client.CellList.Template
+         Generating method body for div()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding com.google.gwt.user.cellview.client.CellList.Resources
+   Invoking generator com.google.gwt.resources.rebind.context.InlineClientBundleGenerator
+      Preparing method cellListSelectedBackground
+         Adding image 'com.google.gwt.user.cellview.client.CellList.Resources.cellListSelectedBackground'
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.03 seconds
+      Removing invalidated units
+Public resources found in...
+Translatable source found in...
+Found 2731 cached/archived units.  Used 2731 / 2732 units from cache.
+Compiling...
+   Compilation completed in 0.06 seconds
+Validating units:
+   [ERROR] Errors in 'file:/D:/workdir/GATech/workspace/Team25Project3-AppEngine/src/com/team25project3/webapp/client/ToDoLayout.java'
+      [ERROR] Line 144: loginService cannot be resolved
+      [ERROR] Line 144: input cannot be resolved
+      [ERROR] Line 148: dialogBox cannot be resolved
+      [ERROR] Line 150: serverResponseLabel cannot be resolved
+      [ERROR] Line 152: serverResponseLabel cannot be resolved
+      [ERROR] Line 153: dialogBox cannot be resolved
+      [ERROR] Line 154: closeButton cannot be resolved
+      [ERROR] Line 158: dialogBox cannot be resolved
+      [ERROR] Line 159: serverResponseLabel cannot be resolved
+      [ERROR] Line 162: serverResponseLabel cannot be resolved
+      [ERROR] Line 163: dialogBox cannot be resolved
+      [ERROR] Line 164: closeButton cannot be resolved
+      [ERROR] Line 167: serverResponseLabel cannot be resolved
+      [ERROR] Line 168: dialogBox cannot be resolved
+      [ERROR] Line 169: closeButton cannot be resolved
+Removing invalidated units
+Finding entry point classes
+   [ERROR] Errors in 'file:/D:/workdir/GATech/workspace/Team25Project3-AppEngine/src/com/team25project3/webapp/client/ToDoLayout.java'
+      [ERROR] Line 144: loginService cannot be resolved
+      [ERROR] Line 144: input cannot be resolved
+      [ERROR] Line 148: dialogBox cannot be resolved
+      [ERROR] Line 150: serverResponseLabel cannot be resolved
+      [ERROR] Line 152: serverResponseLabel cannot be resolved
+      [ERROR] Line 153: dialogBox cannot be resolved
+      [ERROR] Line 154: closeButton cannot be resolved
+      [ERROR] Line 158: dialogBox cannot be resolved
+      [ERROR] Line 159: serverResponseLabel cannot be resolved
+      [ERROR] Line 162: serverResponseLabel cannot be resolved
+      [ERROR] Line 163: dialogBox cannot be resolved
+      [ERROR] Line 164: closeButton cannot be resolved
+      [ERROR] Line 167: serverResponseLabel cannot be resolved
+      [ERROR] Line 168: dialogBox cannot be resolved
+      [ERROR] Line 169: closeButton cannot be resolved
+   [ERROR] Unable to find type 'com.team25project3.webapp.client.Webapp'
+      [ERROR] Hint: Previous compiler errors may have made this type unavailable
+      [ERROR] Hint: Check the inheritance chain from your module; it may not be inheriting a required module or a module may not be adding its source path entries properly
+Public resources found in...
+Translatable source found in...
+Found 2732 cached/archived units.  Used 2732 / 2732 units from cache.
+Compiling...
+   Compilation completed in 0.00 seconds
+Validating units:
+   [ERROR] Errors in 'file:/D:/workdir/GATech/workspace/Team25Project3-AppEngine/src/com/team25project3/webapp/client/ToDoLayout.java'
+      [ERROR] Line 144: loginService cannot be resolved
+      [ERROR] Line 144: input cannot be resolved
+      [ERROR] Line 148: dialogBox cannot be resolved
+      [ERROR] Line 150: serverResponseLabel cannot be resolved
+      [ERROR] Line 152: serverResponseLabel cannot be resolved
+      [ERROR] Line 153: dialogBox cannot be resolved
+      [ERROR] Line 154: closeButton cannot be resolved
+      [ERROR] Line 158: dialogBox cannot be resolved
+      [ERROR] Line 159: serverResponseLabel cannot be resolved
+      [ERROR] Line 162: serverResponseLabel cannot be resolved
+      [ERROR] Line 163: dialogBox cannot be resolved
+      [ERROR] Line 164: closeButton cannot be resolved
+      [ERROR] Line 167: serverResponseLabel cannot be resolved
+      [ERROR] Line 168: dialogBox cannot be resolved
+      [ERROR] Line 169: closeButton cannot be resolved
+Removing invalidated units
+Finding entry point classes
+   [ERROR] Errors in 'file:/D:/workdir/GATech/workspace/Team25Project3-AppEngine/src/com/team25project3/webapp/client/ToDoLayout.java'
+      [ERROR] Line 144: loginService cannot be resolved
+      [ERROR] Line 144: input cannot be resolved
+      [ERROR] Line 148: dialogBox cannot be resolved
+      [ERROR] Line 150: serverResponseLabel cannot be resolved
+      [ERROR] Line 152: serverResponseLabel cannot be resolved
+      [ERROR] Line 153: dialogBox cannot be resolved
+      [ERROR] Line 154: closeButton cannot be resolved
+      [ERROR] Line 158: dialogBox cannot be resolved
+      [ERROR] Line 159: serverResponseLabel cannot be resolved
+      [ERROR] Line 162: serverResponseLabel cannot be resolved
+      [ERROR] Line 163: dialogBox cannot be resolved
+      [ERROR] Line 164: closeButton cannot be resolved
+      [ERROR] Line 167: serverResponseLabel cannot be resolved
+      [ERROR] Line 168: dialogBox cannot be resolved
+      [ERROR] Line 169: closeButton cannot be resolved
+   [ERROR] Unable to find type 'com.team25project3.webapp.client.Webapp'
+      [ERROR] Hint: Previous compiler errors may have made this type unavailable
+      [ERROR] Hint: Check the inheritance chain from your module; it may not be inheriting a required module or a module may not be adding its source path entries properly
+Public resources found in...
+Translatable source found in...
+Found 2732 cached/archived units.  Used 2732 / 2732 units from cache.
+Compiling...
+   Compilation completed in 0.00 seconds
+Validating units:
+   [ERROR] Errors in 'file:/D:/workdir/GATech/workspace/Team25Project3-AppEngine/src/com/team25project3/webapp/client/ToDoLayout.java'
+      [ERROR] Line 144: loginService cannot be resolved
+      [ERROR] Line 144: input cannot be resolved
+      [ERROR] Line 148: dialogBox cannot be resolved
+      [ERROR] Line 150: serverResponseLabel cannot be resolved
+      [ERROR] Line 152: serverResponseLabel cannot be resolved
+      [ERROR] Line 153: dialogBox cannot be resolved
+      [ERROR] Line 154: closeButton cannot be resolved
+      [ERROR] Line 158: dialogBox cannot be resolved
+      [ERROR] Line 159: serverResponseLabel cannot be resolved
+      [ERROR] Line 162: serverResponseLabel cannot be resolved
+      [ERROR] Line 163: dialogBox cannot be resolved
+      [ERROR] Line 164: closeButton cannot be resolved
+      [ERROR] Line 167: serverResponseLabel cannot be resolved
+      [ERROR] Line 168: dialogBox cannot be resolved
+      [ERROR] Line 169: closeButton cannot be resolved
+Removing invalidated units
+Finding entry point classes
+   [ERROR] Errors in 'file:/D:/workdir/GATech/workspace/Team25Project3-AppEngine/src/com/team25project3/webapp/client/ToDoLayout.java'
+      [ERROR] Line 144: loginService cannot be resolved
+      [ERROR] Line 144: input cannot be resolved
+      [ERROR] Line 148: dialogBox cannot be resolved
+      [ERROR] Line 150: serverResponseLabel cannot be resolved
+      [ERROR] Line 152: serverResponseLabel cannot be resolved
+      [ERROR] Line 153: dialogBox cannot be resolved
+      [ERROR] Line 154: closeButton cannot be resolved
+      [ERROR] Line 158: dialogBox cannot be resolved
+      [ERROR] Line 159: serverResponseLabel cannot be resolved
+      [ERROR] Line 162: serverResponseLabel cannot be resolved
+      [ERROR] Line 163: dialogBox cannot be resolved
+      [ERROR] Line 164: closeButton cannot be resolved
+      [ERROR] Line 167: serverResponseLabel cannot be resolved
+      [ERROR] Line 168: dialogBox cannot be resolved
+      [ERROR] Line 169: closeButton cannot be resolved
+   [ERROR] Unable to find type 'com.team25project3.webapp.client.Webapp'
+      [ERROR] Hint: Previous compiler errors may have made this type unavailable
+      [ERROR] Hint: Check the inheritance chain from your module; it may not be inheriting a required module or a module may not be adding its source path entries properly
+Public resources found in...
+Translatable source found in...
+Found 2732 cached/archived units.  Used 2732 / 2732 units from cache.
+Compiling...
+   Compilation completed in 0.00 seconds
+Validating units:
+   [ERROR] Errors in 'file:/D:/workdir/GATech/workspace/Team25Project3-AppEngine/src/com/team25project3/webapp/client/ToDoLayout.java'
+      [ERROR] Line 144: loginService cannot be resolved
+      [ERROR] Line 144: input cannot be resolved
+      [ERROR] Line 148: dialogBox cannot be resolved
+      [ERROR] Line 150: serverResponseLabel cannot be resolved
+      [ERROR] Line 152: serverResponseLabel cannot be resolved
+      [ERROR] Line 153: dialogBox cannot be resolved
+      [ERROR] Line 154: closeButton cannot be resolved
+      [ERROR] Line 158: dialogBox cannot be resolved
+      [ERROR] Line 159: serverResponseLabel cannot be resolved
+      [ERROR] Line 162: serverResponseLabel cannot be resolved
+      [ERROR] Line 163: dialogBox cannot be resolved
+      [ERROR] Line 164: closeButton cannot be resolved
+      [ERROR] Line 167: serverResponseLabel cannot be resolved
+      [ERROR] Line 168: dialogBox cannot be resolved
+      [ERROR] Line 169: closeButton cannot be resolved
+Removing invalidated units
+Finding entry point classes
+   [ERROR] Errors in 'file:/D:/workdir/GATech/workspace/Team25Project3-AppEngine/src/com/team25project3/webapp/client/ToDoLayout.java'
+      [ERROR] Line 144: loginService cannot be resolved
+      [ERROR] Line 144: input cannot be resolved
+      [ERROR] Line 148: dialogBox cannot be resolved
+      [ERROR] Line 150: serverResponseLabel cannot be resolved
+      [ERROR] Line 152: serverResponseLabel cannot be resolved
+      [ERROR] Line 153: dialogBox cannot be resolved
+      [ERROR] Line 154: closeButton cannot be resolved
+      [ERROR] Line 158: dialogBox cannot be resolved
+      [ERROR] Line 159: serverResponseLabel cannot be resolved
+      [ERROR] Line 162: serverResponseLabel cannot be resolved
+      [ERROR] Line 163: dialogBox cannot be resolved
+      [ERROR] Line 164: closeButton cannot be resolved
+      [ERROR] Line 167: serverResponseLabel cannot be resolved
+      [ERROR] Line 168: dialogBox cannot be resolved
+      [ERROR] Line 169: closeButton cannot be resolved
+   [ERROR] Unable to find type 'com.team25project3.webapp.client.Webapp'
+      [ERROR] Hint: Previous compiler errors may have made this type unavailable
+      [ERROR] Hint: Check the inheritance chain from your module; it may not be inheriting a required module or a module may not be adding its source path entries properly
+Public resources found in...
+Translatable source found in...
+Found 2732 cached/archived units.  Used 2732 / 2732 units from cache.
+Compiling...
+   Compilation completed in 0.00 seconds
+Validating units:
+   [ERROR] Errors in 'file:/D:/workdir/GATech/workspace/Team25Project3-AppEngine/src/com/team25project3/webapp/client/ToDoLayout.java'
+      [ERROR] Line 144: loginService cannot be resolved
+      [ERROR] Line 144: input cannot be resolved
+      [ERROR] Line 148: dialogBox cannot be resolved
+      [ERROR] Line 150: serverResponseLabel cannot be resolved
+      [ERROR] Line 152: serverResponseLabel cannot be resolved
+      [ERROR] Line 153: dialogBox cannot be resolved
+      [ERROR] Line 154: closeButton cannot be resolved
+      [ERROR] Line 158: dialogBox cannot be resolved
+      [ERROR] Line 159: serverResponseLabel cannot be resolved
+      [ERROR] Line 162: serverResponseLabel cannot be resolved
+      [ERROR] Line 163: dialogBox cannot be resolved
+      [ERROR] Line 164: closeButton cannot be resolved
+      [ERROR] Line 167: serverResponseLabel cannot be resolved
+      [ERROR] Line 168: dialogBox cannot be resolved
+      [ERROR] Line 169: closeButton cannot be resolved
+Removing invalidated units
+Finding entry point classes
+   [ERROR] Errors in 'file:/D:/workdir/GATech/workspace/Team25Project3-AppEngine/src/com/team25project3/webapp/client/ToDoLayout.java'
+      [ERROR] Line 144: loginService cannot be resolved
+      [ERROR] Line 144: input cannot be resolved
+      [ERROR] Line 148: dialogBox cannot be resolved
+      [ERROR] Line 150: serverResponseLabel cannot be resolved
+      [ERROR] Line 152: serverResponseLabel cannot be resolved
+      [ERROR] Line 153: dialogBox cannot be resolved
+      [ERROR] Line 154: closeButton cannot be resolved
+      [ERROR] Line 158: dialogBox cannot be resolved
+      [ERROR] Line 159: serverResponseLabel cannot be resolved
+      [ERROR] Line 162: serverResponseLabel cannot be resolved
+      [ERROR] Line 163: dialogBox cannot be resolved
+      [ERROR] Line 164: closeButton cannot be resolved
+      [ERROR] Line 167: serverResponseLabel cannot be resolved
+      [ERROR] Line 168: dialogBox cannot be resolved
+      [ERROR] Line 169: closeButton cannot be resolved
+   [ERROR] Unable to find type 'com.team25project3.webapp.client.Webapp'
+      [ERROR] Hint: Previous compiler errors may have made this type unavailable
+      [ERROR] Hint: Check the inheritance chain from your module; it may not be inheriting a required module or a module may not be adding its source path entries properly
+Public resources found in...
+Translatable source found in...
+Found 2732 cached/archived units.  Used 2732 / 2732 units from cache.
+Compiling...
+   Compilation completed in 0.00 seconds
+Validating units:
+   [ERROR] Errors in 'file:/D:/workdir/GATech/workspace/Team25Project3-AppEngine/src/com/team25project3/webapp/client/ToDoLayout.java'
+      [ERROR] Line 144: loginService cannot be resolved
+      [ERROR] Line 144: input cannot be resolved
+      [ERROR] Line 148: dialogBox cannot be resolved
+      [ERROR] Line 150: serverResponseLabel cannot be resolved
+      [ERROR] Line 152: serverResponseLabel cannot be resolved
+      [ERROR] Line 153: dialogBox cannot be resolved
+      [ERROR] Line 154: closeButton cannot be resolved
+      [ERROR] Line 158: dialogBox cannot be resolved
+      [ERROR] Line 159: serverResponseLabel cannot be resolved
+      [ERROR] Line 162: serverResponseLabel cannot be resolved
+      [ERROR] Line 163: dialogBox cannot be resolved
+      [ERROR] Line 164: closeButton cannot be resolved
+      [ERROR] Line 167: serverResponseLabel cannot be resolved
+      [ERROR] Line 168: dialogBox cannot be resolved
+      [ERROR] Line 169: closeButton cannot be resolved
+Removing invalidated units
+Finding entry point classes
+   [ERROR] Errors in 'file:/D:/workdir/GATech/workspace/Team25Project3-AppEngine/src/com/team25project3/webapp/client/ToDoLayout.java'
+      [ERROR] Line 144: loginService cannot be resolved
+      [ERROR] Line 144: input cannot be resolved
+      [ERROR] Line 148: dialogBox cannot be resolved
+      [ERROR] Line 150: serverResponseLabel cannot be resolved
+      [ERROR] Line 152: serverResponseLabel cannot be resolved
+      [ERROR] Line 153: dialogBox cannot be resolved
+      [ERROR] Line 154: closeButton cannot be resolved
+      [ERROR] Line 158: dialogBox cannot be resolved
+      [ERROR] Line 159: serverResponseLabel cannot be resolved
+      [ERROR] Line 162: serverResponseLabel cannot be resolved
+      [ERROR] Line 163: dialogBox cannot be resolved
+      [ERROR] Line 164: closeButton cannot be resolved
+      [ERROR] Line 167: serverResponseLabel cannot be resolved
+      [ERROR] Line 168: dialogBox cannot be resolved
+      [ERROR] Line 169: closeButton cannot be resolved
+   [ERROR] Unable to find type 'com.team25project3.webapp.client.Webapp'
+      [ERROR] Hint: Previous compiler errors may have made this type unavailable
+      [ERROR] Hint: Check the inheritance chain from your module; it may not be inheriting a required module or a module may not be adding its source path entries properly
+Public resources found in...
+Translatable source found in...
+Found 2732 cached/archived units.  Used 2732 / 2732 units from cache.
+Compiling...
+   Compilation completed in 0.00 seconds
+Validating units:
+   [ERROR] Errors in 'file:/D:/workdir/GATech/workspace/Team25Project3-AppEngine/src/com/team25project3/webapp/client/ToDoLayout.java'
+      [ERROR] Line 144: loginService cannot be resolved
+      [ERROR] Line 144: input cannot be resolved
+      [ERROR] Line 148: dialogBox cannot be resolved
+      [ERROR] Line 150: serverResponseLabel cannot be resolved
+      [ERROR] Line 152: serverResponseLabel cannot be resolved
+      [ERROR] Line 153: dialogBox cannot be resolved
+      [ERROR] Line 154: closeButton cannot be resolved
+      [ERROR] Line 158: dialogBox cannot be resolved
+      [ERROR] Line 159: serverResponseLabel cannot be resolved
+      [ERROR] Line 162: serverResponseLabel cannot be resolved
+      [ERROR] Line 163: dialogBox cannot be resolved
+      [ERROR] Line 164: closeButton cannot be resolved
+      [ERROR] Line 167: serverResponseLabel cannot be resolved
+      [ERROR] Line 168: dialogBox cannot be resolved
+      [ERROR] Line 169: closeButton cannot be resolved
+Removing invalidated units
+Finding entry point classes
+   [ERROR] Errors in 'file:/D:/workdir/GATech/workspace/Team25Project3-AppEngine/src/com/team25project3/webapp/client/ToDoLayout.java'
+      [ERROR] Line 144: loginService cannot be resolved
+      [ERROR] Line 144: input cannot be resolved
+      [ERROR] Line 148: dialogBox cannot be resolved
+      [ERROR] Line 150: serverResponseLabel cannot be resolved
+      [ERROR] Line 152: serverResponseLabel cannot be resolved
+      [ERROR] Line 153: dialogBox cannot be resolved
+      [ERROR] Line 154: closeButton cannot be resolved
+      [ERROR] Line 158: dialogBox cannot be resolved
+      [ERROR] Line 159: serverResponseLabel cannot be resolved
+      [ERROR] Line 162: serverResponseLabel cannot be resolved
+      [ERROR] Line 163: dialogBox cannot be resolved
+      [ERROR] Line 164: closeButton cannot be resolved
+      [ERROR] Line 167: serverResponseLabel cannot be resolved
+      [ERROR] Line 168: dialogBox cannot be resolved
+      [ERROR] Line 169: closeButton cannot be resolved
+   [ERROR] Unable to find type 'com.team25project3.webapp.client.Webapp'
+      [ERROR] Hint: Previous compiler errors may have made this type unavailable
+      [ERROR] Hint: Check the inheritance chain from your module; it may not be inheriting a required module or a module may not be adding its source path entries properly
+Public resources found in...
+Translatable source found in...
+Found 2732 cached/archived units.  Used 2732 / 2732 units from cache.
+Compiling...
+   Compilation completed in 0.00 seconds
+Validating units:
+   [ERROR] Errors in 'file:/D:/workdir/GATech/workspace/Team25Project3-AppEngine/src/com/team25project3/webapp/client/ToDoLayout.java'
+      [ERROR] Line 144: loginService cannot be resolved
+      [ERROR] Line 144: input cannot be resolved
+      [ERROR] Line 148: dialogBox cannot be resolved
+      [ERROR] Line 150: serverResponseLabel cannot be resolved
+      [ERROR] Line 152: serverResponseLabel cannot be resolved
+      [ERROR] Line 153: dialogBox cannot be resolved
+      [ERROR] Line 154: closeButton cannot be resolved
+      [ERROR] Line 158: dialogBox cannot be resolved
+      [ERROR] Line 159: serverResponseLabel cannot be resolved
+      [ERROR] Line 162: serverResponseLabel cannot be resolved
+      [ERROR] Line 163: dialogBox cannot be resolved
+      [ERROR] Line 164: closeButton cannot be resolved
+      [ERROR] Line 167: serverResponseLabel cannot be resolved
+      [ERROR] Line 168: dialogBox cannot be resolved
+      [ERROR] Line 169: closeButton cannot be resolved
+Removing invalidated units
+Finding entry point classes
+   [ERROR] Errors in 'file:/D:/workdir/GATech/workspace/Team25Project3-AppEngine/src/com/team25project3/webapp/client/ToDoLayout.java'
+      [ERROR] Line 144: loginService cannot be resolved
+      [ERROR] Line 144: input cannot be resolved
+      [ERROR] Line 148: dialogBox cannot be resolved
+      [ERROR] Line 150: serverResponseLabel cannot be resolved
+      [ERROR] Line 152: serverResponseLabel cannot be resolved
+      [ERROR] Line 153: dialogBox cannot be resolved
+      [ERROR] Line 154: closeButton cannot be resolved
+      [ERROR] Line 158: dialogBox cannot be resolved
+      [ERROR] Line 159: serverResponseLabel cannot be resolved
+      [ERROR] Line 162: serverResponseLabel cannot be resolved
+      [ERROR] Line 163: dialogBox cannot be resolved
+      [ERROR] Line 164: closeButton cannot be resolved
+      [ERROR] Line 167: serverResponseLabel cannot be resolved
+      [ERROR] Line 168: dialogBox cannot be resolved
+      [ERROR] Line 169: closeButton cannot be resolved
+   [ERROR] Unable to find type 'com.team25project3.webapp.client.Webapp'
+      [ERROR] Hint: Previous compiler errors may have made this type unavailable
+      [ERROR] Hint: Check the inheritance chain from your module; it may not be inheriting a required module or a module may not be adding its source path entries properly
+Public resources found in...
+Translatable source found in...
+Found 2732 cached/archived units.  Used 2732 / 2732 units from cache.
+Compiling...
+   Compilation completed in 0.00 seconds
+Validating units:
+   [ERROR] Errors in 'file:/D:/workdir/GATech/workspace/Team25Project3-AppEngine/src/com/team25project3/webapp/client/ToDoLayout.java'
+      [ERROR] Line 144: loginService cannot be resolved
+      [ERROR] Line 144: input cannot be resolved
+      [ERROR] Line 148: dialogBox cannot be resolved
+      [ERROR] Line 150: serverResponseLabel cannot be resolved
+      [ERROR] Line 152: serverResponseLabel cannot be resolved
+      [ERROR] Line 153: dialogBox cannot be resolved
+      [ERROR] Line 154: closeButton cannot be resolved
+      [ERROR] Line 158: dialogBox cannot be resolved
+      [ERROR] Line 159: serverResponseLabel cannot be resolved
+      [ERROR] Line 162: serverResponseLabel cannot be resolved
+      [ERROR] Line 163: dialogBox cannot be resolved
+      [ERROR] Line 164: closeButton cannot be resolved
+      [ERROR] Line 167: serverResponseLabel cannot be resolved
+      [ERROR] Line 168: dialogBox cannot be resolved
+      [ERROR] Line 169: closeButton cannot be resolved
+Removing invalidated units
+Finding entry point classes
+   [ERROR] Errors in 'file:/D:/workdir/GATech/workspace/Team25Project3-AppEngine/src/com/team25project3/webapp/client/ToDoLayout.java'
+      [ERROR] Line 144: loginService cannot be resolved
+      [ERROR] Line 144: input cannot be resolved
+      [ERROR] Line 148: dialogBox cannot be resolved
+      [ERROR] Line 150: serverResponseLabel cannot be resolved
+      [ERROR] Line 152: serverResponseLabel cannot be resolved
+      [ERROR] Line 153: dialogBox cannot be resolved
+      [ERROR] Line 154: closeButton cannot be resolved
+      [ERROR] Line 158: dialogBox cannot be resolved
+      [ERROR] Line 159: serverResponseLabel cannot be resolved
+      [ERROR] Line 162: serverResponseLabel cannot be resolved
+      [ERROR] Line 163: dialogBox cannot be resolved
+      [ERROR] Line 164: closeButton cannot be resolved
+      [ERROR] Line 167: serverResponseLabel cannot be resolved
+      [ERROR] Line 168: dialogBox cannot be resolved
+      [ERROR] Line 169: closeButton cannot be resolved
+   [ERROR] Unable to find type 'com.team25project3.webapp.client.Webapp'
+      [ERROR] Hint: Previous compiler errors may have made this type unavailable
+      [ERROR] Hint: Check the inheritance chain from your module; it may not be inheriting a required module or a module may not be adding its source path entries properly
+Public resources found in...
+Translatable source found in...
+Found 2732 cached/archived units.  Used 2732 / 2732 units from cache.
+Compiling...
+   Compilation completed in 0.00 seconds
+Validating units:
+   [ERROR] Errors in 'file:/D:/workdir/GATech/workspace/Team25Project3-AppEngine/src/com/team25project3/webapp/client/ToDoLayout.java'
+      [ERROR] Line 144: loginService cannot be resolved
+      [ERROR] Line 144: input cannot be resolved
+      [ERROR] Line 148: dialogBox cannot be resolved
+      [ERROR] Line 150: serverResponseLabel cannot be resolved
+      [ERROR] Line 152: serverResponseLabel cannot be resolved
+      [ERROR] Line 153: dialogBox cannot be resolved
+      [ERROR] Line 154: closeButton cannot be resolved
+      [ERROR] Line 158: dialogBox cannot be resolved
+      [ERROR] Line 159: serverResponseLabel cannot be resolved
+      [ERROR] Line 162: serverResponseLabel cannot be resolved
+      [ERROR] Line 163: dialogBox cannot be resolved
+      [ERROR] Line 164: closeButton cannot be resolved
+      [ERROR] Line 167: serverResponseLabel cannot be resolved
+      [ERROR] Line 168: dialogBox cannot be resolved
+      [ERROR] Line 169: closeButton cannot be resolved
+Removing invalidated units
+Finding entry point classes
+   [ERROR] Errors in 'file:/D:/workdir/GATech/workspace/Team25Project3-AppEngine/src/com/team25project3/webapp/client/ToDoLayout.java'
+      [ERROR] Line 144: loginService cannot be resolved
+      [ERROR] Line 144: input cannot be resolved
+      [ERROR] Line 148: dialogBox cannot be resolved
+      [ERROR] Line 150: serverResponseLabel cannot be resolved
+      [ERROR] Line 152: serverResponseLabel cannot be resolved
+      [ERROR] Line 153: dialogBox cannot be resolved
+      [ERROR] Line 154: closeButton cannot be resolved
+      [ERROR] Line 158: dialogBox cannot be resolved
+      [ERROR] Line 159: serverResponseLabel cannot be resolved
+      [ERROR] Line 162: serverResponseLabel cannot be resolved
+      [ERROR] Line 163: dialogBox cannot be resolved
+      [ERROR] Line 164: closeButton cannot be resolved
+      [ERROR] Line 167: serverResponseLabel cannot be resolved
+      [ERROR] Line 168: dialogBox cannot be resolved
+      [ERROR] Line 169: closeButton cannot be resolved
+   [ERROR] Unable to find type 'com.team25project3.webapp.client.Webapp'
+      [ERROR] Hint: Previous compiler errors may have made this type unavailable
+      [ERROR] Hint: Check the inheritance chain from your module; it may not be inheriting a required module or a module may not be adding its source path entries properly
+Public resources found in...
+Translatable source found in...
+Found 2732 cached/archived units.  Used 2732 / 2732 units from cache.
+Compiling...
+   Compilation completed in 0.00 seconds
+Validating units:
+   [ERROR] Errors in 'file:/D:/workdir/GATech/workspace/Team25Project3-AppEngine/src/com/team25project3/webapp/client/ToDoLayout.java'
+      [ERROR] Line 144: loginService cannot be resolved
+      [ERROR] Line 144: input cannot be resolved
+      [ERROR] Line 148: dialogBox cannot be resolved
+      [ERROR] Line 150: serverResponseLabel cannot be resolved
+      [ERROR] Line 152: serverResponseLabel cannot be resolved
+      [ERROR] Line 153: dialogBox cannot be resolved
+      [ERROR] Line 154: closeButton cannot be resolved
+      [ERROR] Line 158: dialogBox cannot be resolved
+      [ERROR] Line 159: serverResponseLabel cannot be resolved
+      [ERROR] Line 162: serverResponseLabel cannot be resolved
+      [ERROR] Line 163: dialogBox cannot be resolved
+      [ERROR] Line 164: closeButton cannot be resolved
+      [ERROR] Line 167: serverResponseLabel cannot be resolved
+      [ERROR] Line 168: dialogBox cannot be resolved
+      [ERROR] Line 169: closeButton cannot be resolved
+Removing invalidated units
+Finding entry point classes
+   [ERROR] Errors in 'file:/D:/workdir/GATech/workspace/Team25Project3-AppEngine/src/com/team25project3/webapp/client/ToDoLayout.java'
+      [ERROR] Line 144: loginService cannot be resolved
+      [ERROR] Line 144: input cannot be resolved
+      [ERROR] Line 148: dialogBox cannot be resolved
+      [ERROR] Line 150: serverResponseLabel cannot be resolved
+      [ERROR] Line 152: serverResponseLabel cannot be resolved
+      [ERROR] Line 153: dialogBox cannot be resolved
+      [ERROR] Line 154: closeButton cannot be resolved
+      [ERROR] Line 158: dialogBox cannot be resolved
+      [ERROR] Line 159: serverResponseLabel cannot be resolved
+      [ERROR] Line 162: serverResponseLabel cannot be resolved
+      [ERROR] Line 163: dialogBox cannot be resolved
+      [ERROR] Line 164: closeButton cannot be resolved
+      [ERROR] Line 167: serverResponseLabel cannot be resolved
+      [ERROR] Line 168: dialogBox cannot be resolved
+      [ERROR] Line 169: closeButton cannot be resolved
+   [ERROR] Unable to find type 'com.team25project3.webapp.client.Webapp'
+      [ERROR] Hint: Previous compiler errors may have made this type unavailable
+      [ERROR] Hint: Check the inheritance chain from your module; it may not be inheriting a required module or a module may not be adding its source path entries properly
+Public resources found in...
+Translatable source found in...
+Found 2732 cached/archived units.  Used 2732 / 2732 units from cache.
+Compiling...
+   Compilation completed in 0.00 seconds
+Validating units:
+   [ERROR] Errors in 'file:/D:/workdir/GATech/workspace/Team25Project3-AppEngine/src/com/team25project3/webapp/client/ToDoLayout.java'
+      [ERROR] Line 144: loginService cannot be resolved
+      [ERROR] Line 144: input cannot be resolved
+      [ERROR] Line 148: dialogBox cannot be resolved
+      [ERROR] Line 150: serverResponseLabel cannot be resolved
+      [ERROR] Line 152: serverResponseLabel cannot be resolved
+      [ERROR] Line 153: dialogBox cannot be resolved
+      [ERROR] Line 154: closeButton cannot be resolved
+      [ERROR] Line 158: dialogBox cannot be resolved
+      [ERROR] Line 159: serverResponseLabel cannot be resolved
+      [ERROR] Line 162: serverResponseLabel cannot be resolved
+      [ERROR] Line 163: dialogBox cannot be resolved
+      [ERROR] Line 164: closeButton cannot be resolved
+      [ERROR] Line 167: serverResponseLabel cannot be resolved
+      [ERROR] Line 168: dialogBox cannot be resolved
+      [ERROR] Line 169: closeButton cannot be resolved
+Removing invalidated units
+Finding entry point classes
+   [ERROR] Errors in 'file:/D:/workdir/GATech/workspace/Team25Project3-AppEngine/src/com/team25project3/webapp/client/ToDoLayout.java'
+      [ERROR] Line 144: loginService cannot be resolved
+      [ERROR] Line 144: input cannot be resolved
+      [ERROR] Line 148: dialogBox cannot be resolved
+      [ERROR] Line 150: serverResponseLabel cannot be resolved
+      [ERROR] Line 152: serverResponseLabel cannot be resolved
+      [ERROR] Line 153: dialogBox cannot be resolved
+      [ERROR] Line 154: closeButton cannot be resolved
+      [ERROR] Line 158: dialogBox cannot be resolved
+      [ERROR] Line 159: serverResponseLabel cannot be resolved
+      [ERROR] Line 162: serverResponseLabel cannot be resolved
+      [ERROR] Line 163: dialogBox cannot be resolved
+      [ERROR] Line 164: closeButton cannot be resolved
+      [ERROR] Line 167: serverResponseLabel cannot be resolved
+      [ERROR] Line 168: dialogBox cannot be resolved
+      [ERROR] Line 169: closeButton cannot be resolved
+   [ERROR] Unable to find type 'com.team25project3.webapp.client.Webapp'
+      [ERROR] Hint: Previous compiler errors may have made this type unavailable
+      [ERROR] Hint: Check the inheritance chain from your module; it may not be inheriting a required module or a module may not be adding its source path entries properly
+Public resources found in...
+Translatable source found in...
+Found 2732 cached/archived units.  Used 2732 / 2732 units from cache.
+Compiling...
+   Compilation completed in 0.00 seconds
+Validating units:
+   [ERROR] Errors in 'file:/D:/workdir/GATech/workspace/Team25Project3-AppEngine/src/com/team25project3/webapp/client/ToDoLayout.java'
+      [ERROR] Line 144: loginService cannot be resolved
+      [ERROR] Line 144: input cannot be resolved
+      [ERROR] Line 148: dialogBox cannot be resolved
+      [ERROR] Line 150: serverResponseLabel cannot be resolved
+      [ERROR] Line 152: serverResponseLabel cannot be resolved
+      [ERROR] Line 153: dialogBox cannot be resolved
+      [ERROR] Line 154: closeButton cannot be resolved
+      [ERROR] Line 158: dialogBox cannot be resolved
+      [ERROR] Line 159: serverResponseLabel cannot be resolved
+      [ERROR] Line 162: serverResponseLabel cannot be resolved
+      [ERROR] Line 163: dialogBox cannot be resolved
+      [ERROR] Line 164: closeButton cannot be resolved
+      [ERROR] Line 167: serverResponseLabel cannot be resolved
+      [ERROR] Line 168: dialogBox cannot be resolved
+      [ERROR] Line 169: closeButton cannot be resolved
+Removing invalidated units
+Finding entry point classes
+   [ERROR] Errors in 'file:/D:/workdir/GATech/workspace/Team25Project3-AppEngine/src/com/team25project3/webapp/client/ToDoLayout.java'
+      [ERROR] Line 144: loginService cannot be resolved
+      [ERROR] Line 144: input cannot be resolved
+      [ERROR] Line 148: dialogBox cannot be resolved
+      [ERROR] Line 150: serverResponseLabel cannot be resolved
+      [ERROR] Line 152: serverResponseLabel cannot be resolved
+      [ERROR] Line 153: dialogBox cannot be resolved
+      [ERROR] Line 154: closeButton cannot be resolved
+      [ERROR] Line 158: dialogBox cannot be resolved
+      [ERROR] Line 159: serverResponseLabel cannot be resolved
+      [ERROR] Line 162: serverResponseLabel cannot be resolved
+      [ERROR] Line 163: dialogBox cannot be resolved
+      [ERROR] Line 164: closeButton cannot be resolved
+      [ERROR] Line 167: serverResponseLabel cannot be resolved
+      [ERROR] Line 168: dialogBox cannot be resolved
+      [ERROR] Line 169: closeButton cannot be resolved
+   [ERROR] Unable to find type 'com.team25project3.webapp.client.Webapp'
+      [ERROR] Hint: Previous compiler errors may have made this type unavailable
+      [ERROR] Hint: Check the inheritance chain from your module; it may not be inheriting a required module or a module may not be adding its source path entries properly
+Public resources found in...
+Translatable source found in...
+Found 2732 cached/archived units.  Used 2732 / 2732 units from cache.
+Compiling...
+   Compilation completed in 0.00 seconds
+Validating units:
+   [ERROR] Errors in 'file:/D:/workdir/GATech/workspace/Team25Project3-AppEngine/src/com/team25project3/webapp/client/ToDoLayout.java'
+      [ERROR] Line 144: loginService cannot be resolved
+      [ERROR] Line 144: input cannot be resolved
+      [ERROR] Line 148: dialogBox cannot be resolved
+      [ERROR] Line 150: serverResponseLabel cannot be resolved
+      [ERROR] Line 152: serverResponseLabel cannot be resolved
+      [ERROR] Line 153: dialogBox cannot be resolved
+      [ERROR] Line 154: closeButton cannot be resolved
+      [ERROR] Line 158: dialogBox cannot be resolved
+      [ERROR] Line 159: serverResponseLabel cannot be resolved
+      [ERROR] Line 162: serverResponseLabel cannot be resolved
+      [ERROR] Line 163: dialogBox cannot be resolved
+      [ERROR] Line 164: closeButton cannot be resolved
+      [ERROR] Line 167: serverResponseLabel cannot be resolved
+      [ERROR] Line 168: dialogBox cannot be resolved
+      [ERROR] Line 169: closeButton cannot be resolved
+Removing invalidated units
+Finding entry point classes
+   [ERROR] Errors in 'file:/D:/workdir/GATech/workspace/Team25Project3-AppEngine/src/com/team25project3/webapp/client/ToDoLayout.java'
+      [ERROR] Line 144: loginService cannot be resolved
+      [ERROR] Line 144: input cannot be resolved
+      [ERROR] Line 148: dialogBox cannot be resolved
+      [ERROR] Line 150: serverResponseLabel cannot be resolved
+      [ERROR] Line 152: serverResponseLabel cannot be resolved
+      [ERROR] Line 153: dialogBox cannot be resolved
+      [ERROR] Line 154: closeButton cannot be resolved
+      [ERROR] Line 158: dialogBox cannot be resolved
+      [ERROR] Line 159: serverResponseLabel cannot be resolved
+      [ERROR] Line 162: serverResponseLabel cannot be resolved
+      [ERROR] Line 163: dialogBox cannot be resolved
+      [ERROR] Line 164: closeButton cannot be resolved
+      [ERROR] Line 167: serverResponseLabel cannot be resolved
+      [ERROR] Line 168: dialogBox cannot be resolved
+      [ERROR] Line 169: closeButton cannot be resolved
+   [ERROR] Unable to find type 'com.team25project3.webapp.client.Webapp'
+      [ERROR] Hint: Previous compiler errors may have made this type unavailable
+      [ERROR] Hint: Check the inheritance chain from your module; it may not be inheriting a required module or a module may not be adding its source path entries properly
+Public resources found in...
+Translatable source found in...
+Found 2732 cached/archived units.  Used 2732 / 2732 units from cache.
+Compiling...
+   Compilation completed in 0.00 seconds
+Validating units:
+   [ERROR] Errors in 'file:/D:/workdir/GATech/workspace/Team25Project3-AppEngine/src/com/team25project3/webapp/client/ToDoLayout.java'
+      [ERROR] Line 144: loginService cannot be resolved
+      [ERROR] Line 144: input cannot be resolved
+      [ERROR] Line 148: dialogBox cannot be resolved
+      [ERROR] Line 150: serverResponseLabel cannot be resolved
+      [ERROR] Line 152: serverResponseLabel cannot be resolved
+      [ERROR] Line 153: dialogBox cannot be resolved
+      [ERROR] Line 154: closeButton cannot be resolved
+      [ERROR] Line 158: dialogBox cannot be resolved
+      [ERROR] Line 159: serverResponseLabel cannot be resolved
+      [ERROR] Line 162: serverResponseLabel cannot be resolved
+      [ERROR] Line 163: dialogBox cannot be resolved
+      [ERROR] Line 164: closeButton cannot be resolved
+      [ERROR] Line 167: serverResponseLabel cannot be resolved
+      [ERROR] Line 168: dialogBox cannot be resolved
+      [ERROR] Line 169: closeButton cannot be resolved
+Removing invalidated units
+Finding entry point classes
+   [ERROR] Errors in 'file:/D:/workdir/GATech/workspace/Team25Project3-AppEngine/src/com/team25project3/webapp/client/ToDoLayout.java'
+      [ERROR] Line 144: loginService cannot be resolved
+      [ERROR] Line 144: input cannot be resolved
+      [ERROR] Line 148: dialogBox cannot be resolved
+      [ERROR] Line 150: serverResponseLabel cannot be resolved
+      [ERROR] Line 152: serverResponseLabel cannot be resolved
+      [ERROR] Line 153: dialogBox cannot be resolved
+      [ERROR] Line 154: closeButton cannot be resolved
+      [ERROR] Line 158: dialogBox cannot be resolved
+      [ERROR] Line 159: serverResponseLabel cannot be resolved
+      [ERROR] Line 162: serverResponseLabel cannot be resolved
+      [ERROR] Line 163: dialogBox cannot be resolved
+      [ERROR] Line 164: closeButton cannot be resolved
+      [ERROR] Line 167: serverResponseLabel cannot be resolved
+      [ERROR] Line 168: dialogBox cannot be resolved
+      [ERROR] Line 169: closeButton cannot be resolved
+   [ERROR] Unable to find type 'com.team25project3.webapp.client.Webapp'
+      [ERROR] Hint: Previous compiler errors may have made this type unavailable
+      [ERROR] Hint: Check the inheritance chain from your module; it may not be inheriting a required module or a module may not be adding its source path entries properly
+Public resources found in...
+Translatable source found in...
+Found 2732 cached/archived units.  Used 2732 / 2732 units from cache.
+Compiling...
+   Compilation completed in 0.00 seconds
+Validating units:
+   [ERROR] Errors in 'file:/D:/workdir/GATech/workspace/Team25Project3-AppEngine/src/com/team25project3/webapp/client/ToDoLayout.java'
+      [ERROR] Line 144: loginService cannot be resolved
+      [ERROR] Line 144: input cannot be resolved
+      [ERROR] Line 148: dialogBox cannot be resolved
+      [ERROR] Line 150: serverResponseLabel cannot be resolved
+      [ERROR] Line 152: serverResponseLabel cannot be resolved
+      [ERROR] Line 153: dialogBox cannot be resolved
+      [ERROR] Line 154: closeButton cannot be resolved
+      [ERROR] Line 158: dialogBox cannot be resolved
+      [ERROR] Line 159: serverResponseLabel cannot be resolved
+      [ERROR] Line 162: serverResponseLabel cannot be resolved
+      [ERROR] Line 163: dialogBox cannot be resolved
+      [ERROR] Line 164: closeButton cannot be resolved
+      [ERROR] Line 167: serverResponseLabel cannot be resolved
+      [ERROR] Line 168: dialogBox cannot be resolved
+      [ERROR] Line 169: closeButton cannot be resolved
+Removing invalidated units
+Finding entry point classes
+   [ERROR] Errors in 'file:/D:/workdir/GATech/workspace/Team25Project3-AppEngine/src/com/team25project3/webapp/client/ToDoLayout.java'
+      [ERROR] Line 144: loginService cannot be resolved
+      [ERROR] Line 144: input cannot be resolved
+      [ERROR] Line 148: dialogBox cannot be resolved
+      [ERROR] Line 150: serverResponseLabel cannot be resolved
+      [ERROR] Line 152: serverResponseLabel cannot be resolved
+      [ERROR] Line 153: dialogBox cannot be resolved
+      [ERROR] Line 154: closeButton cannot be resolved
+      [ERROR] Line 158: dialogBox cannot be resolved
+      [ERROR] Line 159: serverResponseLabel cannot be resolved
+      [ERROR] Line 162: serverResponseLabel cannot be resolved
+      [ERROR] Line 163: dialogBox cannot be resolved
+      [ERROR] Line 164: closeButton cannot be resolved
+      [ERROR] Line 167: serverResponseLabel cannot be resolved
+      [ERROR] Line 168: dialogBox cannot be resolved
+      [ERROR] Line 169: closeButton cannot be resolved
+   [ERROR] Unable to find type 'com.team25project3.webapp.client.Webapp'
+      [ERROR] Hint: Previous compiler errors may have made this type unavailable
+      [ERROR] Hint: Check the inheritance chain from your module; it may not be inheriting a required module or a module may not be adding its source path entries properly
+Public resources found in...
+Translatable source found in...
+Found 2732 cached/archived units.  Used 2732 / 2732 units from cache.
+Compiling...
+   Compilation completed in 0.00 seconds
+Validating units:
+   [ERROR] Errors in 'file:/D:/workdir/GATech/workspace/Team25Project3-AppEngine/src/com/team25project3/webapp/client/ToDoLayout.java'
+      [ERROR] Line 144: loginService cannot be resolved
+      [ERROR] Line 144: input cannot be resolved
+      [ERROR] Line 148: dialogBox cannot be resolved
+      [ERROR] Line 150: serverResponseLabel cannot be resolved
+      [ERROR] Line 152: serverResponseLabel cannot be resolved
+      [ERROR] Line 153: dialogBox cannot be resolved
+      [ERROR] Line 154: closeButton cannot be resolved
+      [ERROR] Line 158: dialogBox cannot be resolved
+      [ERROR] Line 159: serverResponseLabel cannot be resolved
+      [ERROR] Line 162: serverResponseLabel cannot be resolved
+      [ERROR] Line 163: dialogBox cannot be resolved
+      [ERROR] Line 164: closeButton cannot be resolved
+      [ERROR] Line 167: serverResponseLabel cannot be resolved
+      [ERROR] Line 168: dialogBox cannot be resolved
+      [ERROR] Line 169: closeButton cannot be resolved
+Removing invalidated units
+Finding entry point classes
+   [ERROR] Errors in 'file:/D:/workdir/GATech/workspace/Team25Project3-AppEngine/src/com/team25project3/webapp/client/ToDoLayout.java'
+      [ERROR] Line 144: loginService cannot be resolved
+      [ERROR] Line 144: input cannot be resolved
+      [ERROR] Line 148: dialogBox cannot be resolved
+      [ERROR] Line 150: serverResponseLabel cannot be resolved
+      [ERROR] Line 152: serverResponseLabel cannot be resolved
+      [ERROR] Line 153: dialogBox cannot be resolved
+      [ERROR] Line 154: closeButton cannot be resolved
+      [ERROR] Line 158: dialogBox cannot be resolved
+      [ERROR] Line 159: serverResponseLabel cannot be resolved
+      [ERROR] Line 162: serverResponseLabel cannot be resolved
+      [ERROR] Line 163: dialogBox cannot be resolved
+      [ERROR] Line 164: closeButton cannot be resolved
+      [ERROR] Line 167: serverResponseLabel cannot be resolved
+      [ERROR] Line 168: dialogBox cannot be resolved
+      [ERROR] Line 169: closeButton cannot be resolved
+   [ERROR] Unable to find type 'com.team25project3.webapp.client.Webapp'
+      [ERROR] Hint: Previous compiler errors may have made this type unavailable
+      [ERROR] Hint: Check the inheritance chain from your module; it may not be inheriting a required module or a module may not be adding its source path entries properly
+Public resources found in...
+Translatable source found in...
+Found 2732 cached/archived units.  Used 2732 / 2732 units from cache.
+Compiling...
+   Compilation completed in 0.00 seconds
+Validating units:
+   [ERROR] Errors in 'file:/D:/workdir/GATech/workspace/Team25Project3-AppEngine/src/com/team25project3/webapp/client/ToDoLayout.java'
+      [ERROR] Line 144: loginService cannot be resolved
+      [ERROR] Line 144: input cannot be resolved
+      [ERROR] Line 148: dialogBox cannot be resolved
+      [ERROR] Line 150: serverResponseLabel cannot be resolved
+      [ERROR] Line 152: serverResponseLabel cannot be resolved
+      [ERROR] Line 153: dialogBox cannot be resolved
+      [ERROR] Line 154: closeButton cannot be resolved
+      [ERROR] Line 158: dialogBox cannot be resolved
+      [ERROR] Line 159: serverResponseLabel cannot be resolved
+      [ERROR] Line 162: serverResponseLabel cannot be resolved
+      [ERROR] Line 163: dialogBox cannot be resolved
+      [ERROR] Line 164: closeButton cannot be resolved
+      [ERROR] Line 167: serverResponseLabel cannot be resolved
+      [ERROR] Line 168: dialogBox cannot be resolved
+      [ERROR] Line 169: closeButton cannot be resolved
+Removing invalidated units
+Finding entry point classes
+   [ERROR] Errors in 'file:/D:/workdir/GATech/workspace/Team25Project3-AppEngine/src/com/team25project3/webapp/client/ToDoLayout.java'
+      [ERROR] Line 144: loginService cannot be resolved
+      [ERROR] Line 144: input cannot be resolved
+      [ERROR] Line 148: dialogBox cannot be resolved
+      [ERROR] Line 150: serverResponseLabel cannot be resolved
+      [ERROR] Line 152: serverResponseLabel cannot be resolved
+      [ERROR] Line 153: dialogBox cannot be resolved
+      [ERROR] Line 154: closeButton cannot be resolved
+      [ERROR] Line 158: dialogBox cannot be resolved
+      [ERROR] Line 159: serverResponseLabel cannot be resolved
+      [ERROR] Line 162: serverResponseLabel cannot be resolved
+      [ERROR] Line 163: dialogBox cannot be resolved
+      [ERROR] Line 164: closeButton cannot be resolved
+      [ERROR] Line 167: serverResponseLabel cannot be resolved
+      [ERROR] Line 168: dialogBox cannot be resolved
+      [ERROR] Line 169: closeButton cannot be resolved
+   [ERROR] Unable to find type 'com.team25project3.webapp.client.Webapp'
+      [ERROR] Hint: Previous compiler errors may have made this type unavailable
+      [ERROR] Hint: Check the inheritance chain from your module; it may not be inheriting a required module or a module may not be adding its source path entries properly
+Public resources found in...
+Translatable source found in...
+Found 2732 cached/archived units.  Used 2732 / 2732 units from cache.
+Compiling...
+   Compilation completed in 0.00 seconds
+Validating units:
+   [ERROR] Errors in 'file:/D:/workdir/GATech/workspace/Team25Project3-AppEngine/src/com/team25project3/webapp/client/ToDoLayout.java'
+      [ERROR] Line 144: loginService cannot be resolved
+      [ERROR] Line 144: input cannot be resolved
+      [ERROR] Line 148: dialogBox cannot be resolved
+      [ERROR] Line 150: serverResponseLabel cannot be resolved
+      [ERROR] Line 152: serverResponseLabel cannot be resolved
+      [ERROR] Line 153: dialogBox cannot be resolved
+      [ERROR] Line 154: closeButton cannot be resolved
+      [ERROR] Line 158: dialogBox cannot be resolved
+      [ERROR] Line 159: serverResponseLabel cannot be resolved
+      [ERROR] Line 162: serverResponseLabel cannot be resolved
+      [ERROR] Line 163: dialogBox cannot be resolved
+      [ERROR] Line 164: closeButton cannot be resolved
+      [ERROR] Line 167: serverResponseLabel cannot be resolved
+      [ERROR] Line 168: dialogBox cannot be resolved
+      [ERROR] Line 169: closeButton cannot be resolved
+Removing invalidated units
+Finding entry point classes
+   [ERROR] Errors in 'file:/D:/workdir/GATech/workspace/Team25Project3-AppEngine/src/com/team25project3/webapp/client/ToDoLayout.java'
+      [ERROR] Line 144: loginService cannot be resolved
+      [ERROR] Line 144: input cannot be resolved
+      [ERROR] Line 148: dialogBox cannot be resolved
+      [ERROR] Line 150: serverResponseLabel cannot be resolved
+      [ERROR] Line 152: serverResponseLabel cannot be resolved
+      [ERROR] Line 153: dialogBox cannot be resolved
+      [ERROR] Line 154: closeButton cannot be resolved
+      [ERROR] Line 158: dialogBox cannot be resolved
+      [ERROR] Line 159: serverResponseLabel cannot be resolved
+      [ERROR] Line 162: serverResponseLabel cannot be resolved
+      [ERROR] Line 163: dialogBox cannot be resolved
+      [ERROR] Line 164: closeButton cannot be resolved
+      [ERROR] Line 167: serverResponseLabel cannot be resolved
+      [ERROR] Line 168: dialogBox cannot be resolved
+      [ERROR] Line 169: closeButton cannot be resolved
+   [ERROR] Unable to find type 'com.team25project3.webapp.client.Webapp'
+      [ERROR] Hint: Previous compiler errors may have made this type unavailable
+      [ERROR] Hint: Check the inheritance chain from your module; it may not be inheriting a required module or a module may not be adding its source path entries properly
+Public resources found in...
+Translatable source found in...
+Found 2732 cached/archived units.  Used 2732 / 2732 units from cache.
+Compiling...
+   Compilation completed in 0.00 seconds
+Validating units:
+   [ERROR] Errors in 'file:/D:/workdir/GATech/workspace/Team25Project3-AppEngine/src/com/team25project3/webapp/client/ToDoLayout.java'
+      [ERROR] Line 144: loginService cannot be resolved
+      [ERROR] Line 144: input cannot be resolved
+      [ERROR] Line 148: dialogBox cannot be resolved
+      [ERROR] Line 150: serverResponseLabel cannot be resolved
+      [ERROR] Line 152: serverResponseLabel cannot be resolved
+      [ERROR] Line 153: dialogBox cannot be resolved
+      [ERROR] Line 154: closeButton cannot be resolved
+      [ERROR] Line 158: dialogBox cannot be resolved
+      [ERROR] Line 159: serverResponseLabel cannot be resolved
+      [ERROR] Line 162: serverResponseLabel cannot be resolved
+      [ERROR] Line 163: dialogBox cannot be resolved
+      [ERROR] Line 164: closeButton cannot be resolved
+      [ERROR] Line 167: serverResponseLabel cannot be resolved
+      [ERROR] Line 168: dialogBox cannot be resolved
+      [ERROR] Line 169: closeButton cannot be resolved
+Removing invalidated units
+Finding entry point classes
+   [ERROR] Errors in 'file:/D:/workdir/GATech/workspace/Team25Project3-AppEngine/src/com/team25project3/webapp/client/ToDoLayout.java'
+      [ERROR] Line 144: loginService cannot be resolved
+      [ERROR] Line 144: input cannot be resolved
+      [ERROR] Line 148: dialogBox cannot be resolved
+      [ERROR] Line 150: serverResponseLabel cannot be resolved
+      [ERROR] Line 152: serverResponseLabel cannot be resolved
+      [ERROR] Line 153: dialogBox cannot be resolved
+      [ERROR] Line 154: closeButton cannot be resolved
+      [ERROR] Line 158: dialogBox cannot be resolved
+      [ERROR] Line 159: serverResponseLabel cannot be resolved
+      [ERROR] Line 162: serverResponseLabel cannot be resolved
+      [ERROR] Line 163: dialogBox cannot be resolved
+      [ERROR] Line 164: closeButton cannot be resolved
+      [ERROR] Line 167: serverResponseLabel cannot be resolved
+      [ERROR] Line 168: dialogBox cannot be resolved
+      [ERROR] Line 169: closeButton cannot be resolved
+   [ERROR] Unable to find type 'com.team25project3.webapp.client.Webapp'
+      [ERROR] Hint: Previous compiler errors may have made this type unavailable
+      [ERROR] Hint: Check the inheritance chain from your module; it may not be inheriting a required module or a module may not be adding its source path entries properly
+Public resources found in...
+Translatable source found in...
+Found 2732 cached/archived units.  Used 2732 / 2732 units from cache.
+Compiling...
+   Compilation completed in 0.00 seconds
+Validating units:
+   [ERROR] Errors in 'file:/D:/workdir/GATech/workspace/Team25Project3-AppEngine/src/com/team25project3/webapp/client/ToDoLayout.java'
+      [ERROR] Line 144: loginService cannot be resolved
+      [ERROR] Line 144: input cannot be resolved
+      [ERROR] Line 148: dialogBox cannot be resolved
+      [ERROR] Line 150: serverResponseLabel cannot be resolved
+      [ERROR] Line 152: serverResponseLabel cannot be resolved
+      [ERROR] Line 153: dialogBox cannot be resolved
+      [ERROR] Line 154: closeButton cannot be resolved
+      [ERROR] Line 158: dialogBox cannot be resolved
+      [ERROR] Line 159: serverResponseLabel cannot be resolved
+      [ERROR] Line 162: serverResponseLabel cannot be resolved
+      [ERROR] Line 163: dialogBox cannot be resolved
+      [ERROR] Line 164: closeButton cannot be resolved
+      [ERROR] Line 167: serverResponseLabel cannot be resolved
+      [ERROR] Line 168: dialogBox cannot be resolved
+      [ERROR] Line 169: closeButton cannot be resolved
+Removing invalidated units
+Finding entry point classes
+   [ERROR] Errors in 'file:/D:/workdir/GATech/workspace/Team25Project3-AppEngine/src/com/team25project3/webapp/client/ToDoLayout.java'
+      [ERROR] Line 144: loginService cannot be resolved
+      [ERROR] Line 144: input cannot be resolved
+      [ERROR] Line 148: dialogBox cannot be resolved
+      [ERROR] Line 150: serverResponseLabel cannot be resolved
+      [ERROR] Line 152: serverResponseLabel cannot be resolved
+      [ERROR] Line 153: dialogBox cannot be resolved
+      [ERROR] Line 154: closeButton cannot be resolved
+      [ERROR] Line 158: dialogBox cannot be resolved
+      [ERROR] Line 159: serverResponseLabel cannot be resolved
+      [ERROR] Line 162: serverResponseLabel cannot be resolved
+      [ERROR] Line 163: dialogBox cannot be resolved
+      [ERROR] Line 164: closeButton cannot be resolved
+      [ERROR] Line 167: serverResponseLabel cannot be resolved
+      [ERROR] Line 168: dialogBox cannot be resolved
+      [ERROR] Line 169: closeButton cannot be resolved
+   [ERROR] Unable to find type 'com.team25project3.webapp.client.Webapp'
+      [ERROR] Hint: Previous compiler errors may have made this type unavailable
+      [ERROR] Hint: Check the inheritance chain from your module; it may not be inheriting a required module or a module may not be adding its source path entries properly
+Public resources found in...
+Translatable source found in...
+Found 2729 cached/archived units.  Used 2729 / 2732 units from cache.
+Compiling...
+   Compilation completed in 0.03 seconds
+Validating units:
+   [ERROR] Errors in 'file:/D:/workdir/GATech/workspace/Team25Project3-AppEngine/src/com/team25project3/webapp/client/ToDoLayout.java'
+      [ERROR] Line 145: The type new AsyncCallback<TaskContainer>(){} must implement the inherited abstract method AsyncCallback<TaskContainer>.onSuccess(TaskContainer)
+Removing invalidated units
+Finding entry point classes
+   [ERROR] Errors in 'file:/D:/workdir/GATech/workspace/Team25Project3-AppEngine/src/com/team25project3/webapp/client/ToDoLayout.java'
+      [ERROR] Line 145: The type new AsyncCallback<TaskContainer>(){} must implement the inherited abstract method AsyncCallback<TaskContainer>.onSuccess(TaskContainer)
+   [ERROR] Unable to find type 'com.team25project3.webapp.client.Webapp'
+      [ERROR] Hint: Previous compiler errors may have made this type unavailable
+      [ERROR] Hint: Check the inheritance chain from your module; it may not be inheriting a required module or a module may not be adding its source path entries properly
+Public resources found in...
+Translatable source found in...
+Found 2731 cached/archived units.  Used 2731 / 2732 units from cache.
+Compiling...
+   Compilation completed in 0.05 seconds
+Removing invalidated units
+Finding entry point classes
+Rebinding com.google.gwt.i18n.client.impl.LocaleInfoImpl
+   Invoking generator com.google.gwt.i18n.rebind.LocaleInfoGenerator
+      Processing interface com.google.gwt.i18n.client.constants.NumberConstantsImpl
+         Generating method body for notANumber()
+         Generating method body for currencyPattern()
+         Generating method body for decimalPattern()
+         Generating method body for decimalSeparator()
+         Generating method body for defCurrencyCode()
+         Generating method body for exponentialSymbol()
+         Generating method body for globalCurrencyPattern()
+         Generating method body for groupingSeparator()
+         Generating method body for infinity()
+         Generating method body for minusSign()
+         Generating method body for monetaryGroupingSeparator()
+         Generating method body for monetarySeparator()
+         Generating method body for percent()
+         Generating method body for percentPattern()
+         Generating method body for perMill()
+         Generating method body for plusSign()
+         Generating method body for scientificPattern()
+         Generating method body for simpleCurrencyPattern()
+         Generating method body for zeroDigit()
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.04 seconds
+      Removing invalidated units
+Rebinding com.google.gwt.user.cellview.client.CellList.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.google.gwt.user.cellview.client.CellList.Template
+         Generating method body for div()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding com.google.gwt.user.cellview.client.CellList.Resources
+   Invoking generator com.google.gwt.resources.rebind.context.InlineClientBundleGenerator
+      Preparing method cellListSelectedBackground
+         Adding image 'com.google.gwt.user.cellview.client.CellList.Resources.cellListSelectedBackground'
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.03 seconds
+      Removing invalidated units
+Public resources found in...
+Translatable source found in...
+Found 2732 cached/archived units.  Used 2732 / 2732 units from cache.
+Compiling...
+   Compilation completed in 0.00 seconds
+Removing invalidated units
+Finding entry point classes
+Rebinding com.google.gwt.i18n.client.impl.LocaleInfoImpl
+   Invoking generator com.google.gwt.i18n.rebind.LocaleInfoGenerator
+      Processing interface com.google.gwt.i18n.client.constants.NumberConstantsImpl
+         Generating method body for notANumber()
+         Generating method body for currencyPattern()
+         Generating method body for decimalPattern()
+         Generating method body for decimalSeparator()
+         Generating method body for defCurrencyCode()
+         Generating method body for exponentialSymbol()
+         Generating method body for globalCurrencyPattern()
+         Generating method body for groupingSeparator()
+         Generating method body for infinity()
+         Generating method body for minusSign()
+         Generating method body for monetaryGroupingSeparator()
+         Generating method body for monetarySeparator()
+         Generating method body for percent()
+         Generating method body for percentPattern()
+         Generating method body for perMill()
+         Generating method body for plusSign()
+         Generating method body for scientificPattern()
+         Generating method body for simpleCurrencyPattern()
+         Generating method body for zeroDigit()
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding com.google.gwt.user.cellview.client.CellList.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.google.gwt.user.cellview.client.CellList.Template
+         Generating method body for div()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding com.google.gwt.user.cellview.client.CellList.Resources
+   Invoking generator com.google.gwt.resources.rebind.context.InlineClientBundleGenerator
+      Preparing method cellListSelectedBackground
+         Adding image 'com.google.gwt.user.cellview.client.CellList.Resources.cellListSelectedBackground'
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.04 seconds
+      Removing invalidated units
+Public resources found in...
+Translatable source found in...
+Found 2732 cached/archived units.  Used 2732 / 2732 units from cache.
+Compiling...
+   Compilation completed in 0.00 seconds
+Removing invalidated units
+Finding entry point classes
+Rebinding com.google.gwt.i18n.client.impl.LocaleInfoImpl
+   Invoking generator com.google.gwt.i18n.rebind.LocaleInfoGenerator
+      Processing interface com.google.gwt.i18n.client.constants.NumberConstantsImpl
+         Generating method body for notANumber()
+         Generating method body for currencyPattern()
+         Generating method body for decimalPattern()
+         Generating method body for decimalSeparator()
+         Generating method body for defCurrencyCode()
+         Generating method body for exponentialSymbol()
+         Generating method body for globalCurrencyPattern()
+         Generating method body for groupingSeparator()
+         Generating method body for infinity()
+         Generating method body for minusSign()
+         Generating method body for monetaryGroupingSeparator()
+         Generating method body for monetarySeparator()
+         Generating method body for percent()
+         Generating method body for percentPattern()
+         Generating method body for perMill()
+         Generating method body for plusSign()
+         Generating method body for scientificPattern()
+         Generating method body for simpleCurrencyPattern()
+         Generating method body for zeroDigit()
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding com.google.gwt.user.cellview.client.CellList.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.google.gwt.user.cellview.client.CellList.Template
+         Generating method body for div()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding com.google.gwt.user.cellview.client.CellList.Resources
+   Invoking generator com.google.gwt.resources.rebind.context.InlineClientBundleGenerator
+      Preparing method cellListSelectedBackground
+         Adding image 'com.google.gwt.user.cellview.client.CellList.Resources.cellListSelectedBackground'
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.03 seconds
+      Removing invalidated units
+Public resources found in...
+Translatable source found in...
+Found 2732 cached/archived units.  Used 2732 / 2732 units from cache.
+Compiling...
+   Compilation completed in 0.00 seconds
+Removing invalidated units
+Finding entry point classes
+Rebinding com.google.gwt.i18n.client.impl.LocaleInfoImpl
+   Invoking generator com.google.gwt.i18n.rebind.LocaleInfoGenerator
+      Processing interface com.google.gwt.i18n.client.constants.NumberConstantsImpl
+         Generating method body for notANumber()
+         Generating method body for currencyPattern()
+         Generating method body for decimalPattern()
+         Generating method body for decimalSeparator()
+         Generating method body for defCurrencyCode()
+         Generating method body for exponentialSymbol()
+         Generating method body for globalCurrencyPattern()
+         Generating method body for groupingSeparator()
+         Generating method body for infinity()
+         Generating method body for minusSign()
+         Generating method body for monetaryGroupingSeparator()
+         Generating method body for monetarySeparator()
+         Generating method body for percent()
+         Generating method body for percentPattern()
+         Generating method body for perMill()
+         Generating method body for plusSign()
+         Generating method body for scientificPattern()
+         Generating method body for simpleCurrencyPattern()
+         Generating method body for zeroDigit()
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding com.google.gwt.user.cellview.client.CellList.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.google.gwt.user.cellview.client.CellList.Template
+         Generating method body for div()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding com.google.gwt.user.cellview.client.CellList.Resources
+   Invoking generator com.google.gwt.resources.rebind.context.InlineClientBundleGenerator
+      Preparing method cellListSelectedBackground
+         Adding image 'com.google.gwt.user.cellview.client.CellList.Resources.cellListSelectedBackground'
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.03 seconds
+      Removing invalidated units
+Public resources found in...
+Translatable source found in...
+Found 2732 cached/archived units.  Used 2732 / 2732 units from cache.
+Compiling...
+   Compilation completed in 0.00 seconds
+Removing invalidated units
+Finding entry point classes
+Rebinding com.google.gwt.i18n.client.impl.LocaleInfoImpl
+   Invoking generator com.google.gwt.i18n.rebind.LocaleInfoGenerator
+      Processing interface com.google.gwt.i18n.client.constants.NumberConstantsImpl
+         Generating method body for notANumber()
+         Generating method body for currencyPattern()
+         Generating method body for decimalPattern()
+         Generating method body for decimalSeparator()
+         Generating method body for defCurrencyCode()
+         Generating method body for exponentialSymbol()
+         Generating method body for globalCurrencyPattern()
+         Generating method body for groupingSeparator()
+         Generating method body for infinity()
+         Generating method body for minusSign()
+         Generating method body for monetaryGroupingSeparator()
+         Generating method body for monetarySeparator()
+         Generating method body for percent()
+         Generating method body for percentPattern()
+         Generating method body for perMill()
+         Generating method body for plusSign()
+         Generating method body for scientificPattern()
+         Generating method body for simpleCurrencyPattern()
+         Generating method body for zeroDigit()
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding com.google.gwt.user.cellview.client.CellList.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.google.gwt.user.cellview.client.CellList.Template
+         Generating method body for div()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding com.google.gwt.user.cellview.client.CellList.Resources
+   Invoking generator com.google.gwt.resources.rebind.context.InlineClientBundleGenerator
+      Preparing method cellListSelectedBackground
+         Adding image 'com.google.gwt.user.cellview.client.CellList.Resources.cellListSelectedBackground'
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.03 seconds
+      Removing invalidated units
+Public resources found in...
+Translatable source found in...
+Found 2732 cached/archived units.  Used 2732 / 2732 units from cache.
+Compiling...
+   Compilation completed in 0.00 seconds
+Removing invalidated units
+Finding entry point classes
+Rebinding com.google.gwt.i18n.client.impl.LocaleInfoImpl
+   Invoking generator com.google.gwt.i18n.rebind.LocaleInfoGenerator
+      Processing interface com.google.gwt.i18n.client.constants.NumberConstantsImpl
+         Generating method body for notANumber()
+         Generating method body for currencyPattern()
+         Generating method body for decimalPattern()
+         Generating method body for decimalSeparator()
+         Generating method body for defCurrencyCode()
+         Generating method body for exponentialSymbol()
+         Generating method body for globalCurrencyPattern()
+         Generating method body for groupingSeparator()
+         Generating method body for infinity()
+         Generating method body for minusSign()
+         Generating method body for monetaryGroupingSeparator()
+         Generating method body for monetarySeparator()
+         Generating method body for percent()
+         Generating method body for percentPattern()
+         Generating method body for perMill()
+         Generating method body for plusSign()
+         Generating method body for scientificPattern()
+         Generating method body for simpleCurrencyPattern()
+         Generating method body for zeroDigit()
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding com.google.gwt.user.cellview.client.CellList.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.google.gwt.user.cellview.client.CellList.Template
+         Generating method body for div()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding com.google.gwt.user.cellview.client.CellList.Resources
+   Invoking generator com.google.gwt.resources.rebind.context.InlineClientBundleGenerator
+      Preparing method cellListSelectedBackground
+         Adding image 'com.google.gwt.user.cellview.client.CellList.Resources.cellListSelectedBackground'
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.03 seconds
+      Removing invalidated units
+Public resources found in...
+Translatable source found in...
+Found 2732 cached/archived units.  Used 2732 / 2732 units from cache.
+Compiling...
+   Compilation completed in 0.00 seconds
+Removing invalidated units
+Finding entry point classes
+Rebinding com.google.gwt.i18n.client.impl.LocaleInfoImpl
+   Invoking generator com.google.gwt.i18n.rebind.LocaleInfoGenerator
+      Processing interface com.google.gwt.i18n.client.constants.NumberConstantsImpl
+         Generating method body for notANumber()
+         Generating method body for currencyPattern()
+         Generating method body for decimalPattern()
+         Generating method body for decimalSeparator()
+         Generating method body for defCurrencyCode()
+         Generating method body for exponentialSymbol()
+         Generating method body for globalCurrencyPattern()
+         Generating method body for groupingSeparator()
+         Generating method body for infinity()
+         Generating method body for minusSign()
+         Generating method body for monetaryGroupingSeparator()
+         Generating method body for monetarySeparator()
+         Generating method body for percent()
+         Generating method body for percentPattern()
+         Generating method body for perMill()
+         Generating method body for plusSign()
+         Generating method body for scientificPattern()
+         Generating method body for simpleCurrencyPattern()
+         Generating method body for zeroDigit()
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding com.google.gwt.user.cellview.client.CellList.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.google.gwt.user.cellview.client.CellList.Template
+         Generating method body for div()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding com.google.gwt.user.cellview.client.CellList.Resources
+   Invoking generator com.google.gwt.resources.rebind.context.InlineClientBundleGenerator
+      Preparing method cellListSelectedBackground
+         Adding image 'com.google.gwt.user.cellview.client.CellList.Resources.cellListSelectedBackground'
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.03 seconds
+      Removing invalidated units
+Public resources found in...
+Translatable source found in...
+Found 2732 cached/archived units.  Used 2732 / 2732 units from cache.
+Compiling...
+   Compilation completed in 0.00 seconds
+Removing invalidated units
+Finding entry point classes
+Rebinding com.google.gwt.i18n.client.impl.LocaleInfoImpl
+   Invoking generator com.google.gwt.i18n.rebind.LocaleInfoGenerator
+      Processing interface com.google.gwt.i18n.client.constants.NumberConstantsImpl
+         Generating method body for notANumber()
+         Generating method body for currencyPattern()
+         Generating method body for decimalPattern()
+         Generating method body for decimalSeparator()
+         Generating method body for defCurrencyCode()
+         Generating method body for exponentialSymbol()
+         Generating method body for globalCurrencyPattern()
+         Generating method body for groupingSeparator()
+         Generating method body for infinity()
+         Generating method body for minusSign()
+         Generating method body for monetaryGroupingSeparator()
+         Generating method body for monetarySeparator()
+         Generating method body for percent()
+         Generating method body for percentPattern()
+         Generating method body for perMill()
+         Generating method body for plusSign()
+         Generating method body for scientificPattern()
+         Generating method body for simpleCurrencyPattern()
+         Generating method body for zeroDigit()
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding com.google.gwt.user.cellview.client.CellList.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.google.gwt.user.cellview.client.CellList.Template
+         Generating method body for div()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding com.google.gwt.user.cellview.client.CellList.Resources
+   Invoking generator com.google.gwt.resources.rebind.context.InlineClientBundleGenerator
+      Preparing method cellListSelectedBackground
+         Adding image 'com.google.gwt.user.cellview.client.CellList.Resources.cellListSelectedBackground'
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.03 seconds
+      Removing invalidated units
+Public resources found in...
+Translatable source found in...
+Found 2732 cached/archived units.  Used 2732 / 2732 units from cache.
+Compiling...
+   Compilation completed in 0.00 seconds
+Removing invalidated units
+Finding entry point classes
+Rebinding com.google.gwt.i18n.client.impl.LocaleInfoImpl
+   Invoking generator com.google.gwt.i18n.rebind.LocaleInfoGenerator
+      Processing interface com.google.gwt.i18n.client.constants.NumberConstantsImpl
+         Generating method body for notANumber()
+         Generating method body for currencyPattern()
+         Generating method body for decimalPattern()
+         Generating method body for decimalSeparator()
+         Generating method body for defCurrencyCode()
+         Generating method body for exponentialSymbol()
+         Generating method body for globalCurrencyPattern()
+         Generating method body for groupingSeparator()
+         Generating method body for infinity()
+         Generating method body for minusSign()
+         Generating method body for monetaryGroupingSeparator()
+         Generating method body for monetarySeparator()
+         Generating method body for percent()
+         Generating method body for percentPattern()
+         Generating method body for perMill()
+         Generating method body for plusSign()
+         Generating method body for scientificPattern()
+         Generating method body for simpleCurrencyPattern()
+         Generating method body for zeroDigit()
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding com.google.gwt.user.cellview.client.CellList.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.google.gwt.user.cellview.client.CellList.Template
+         Generating method body for div()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding com.google.gwt.user.cellview.client.CellList.Resources
+   Invoking generator com.google.gwt.resources.rebind.context.InlineClientBundleGenerator
+      Preparing method cellListSelectedBackground
+         Adding image 'com.google.gwt.user.cellview.client.CellList.Resources.cellListSelectedBackground'
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.03 seconds
+      Removing invalidated units
+Public resources found in...
+Translatable source found in...
+Found 2732 cached/archived units.  Used 2732 / 2732 units from cache.
+Compiling...
+   Compilation completed in 0.00 seconds
+Removing invalidated units
+Finding entry point classes
+Rebinding com.google.gwt.i18n.client.impl.LocaleInfoImpl
+   Invoking generator com.google.gwt.i18n.rebind.LocaleInfoGenerator
+      Processing interface com.google.gwt.i18n.client.constants.NumberConstantsImpl
+         Generating method body for notANumber()
+         Generating method body for currencyPattern()
+         Generating method body for decimalPattern()
+         Generating method body for decimalSeparator()
+         Generating method body for defCurrencyCode()
+         Generating method body for exponentialSymbol()
+         Generating method body for globalCurrencyPattern()
+         Generating method body for groupingSeparator()
+         Generating method body for infinity()
+         Generating method body for minusSign()
+         Generating method body for monetaryGroupingSeparator()
+         Generating method body for monetarySeparator()
+         Generating method body for percent()
+         Generating method body for percentPattern()
+         Generating method body for perMill()
+         Generating method body for plusSign()
+         Generating method body for scientificPattern()
+         Generating method body for simpleCurrencyPattern()
+         Generating method body for zeroDigit()
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding com.google.gwt.user.cellview.client.CellList.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.google.gwt.user.cellview.client.CellList.Template
+         Generating method body for div()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding com.google.gwt.user.cellview.client.CellList.Resources
+   Invoking generator com.google.gwt.resources.rebind.context.InlineClientBundleGenerator
+      Preparing method cellListSelectedBackground
+         Adding image 'com.google.gwt.user.cellview.client.CellList.Resources.cellListSelectedBackground'
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.03 seconds
+      Removing invalidated units
+Public resources found in...
+Translatable source found in...
+Found 2732 cached/archived units.  Used 2732 / 2732 units from cache.
+Compiling...
+   Compilation completed in 0.00 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2732 cached/archived units.  Used 2732 / 2732 units from cache.
+Compiling...
+   Compilation completed in 0.00 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2732 cached/archived units.  Used 2732 / 2732 units from cache.
+Compiling...
+   Compilation completed in 0.00 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2732 cached/archived units.  Used 2732 / 2732 units from cache.
+Compiling...
+   Compilation completed in 0.00 seconds
+Removing invalidated units
+Finding entry point classes
+Rebinding com.google.gwt.i18n.client.impl.LocaleInfoImpl
+   Invoking generator com.google.gwt.i18n.rebind.LocaleInfoGenerator
+      Processing interface com.google.gwt.i18n.client.constants.NumberConstantsImpl
+         Generating method body for notANumber()
+         Generating method body for currencyPattern()
+         Generating method body for decimalPattern()
+         Generating method body for decimalSeparator()
+         Generating method body for defCurrencyCode()
+         Generating method body for exponentialSymbol()
+         Generating method body for globalCurrencyPattern()
+         Generating method body for groupingSeparator()
+         Generating method body for infinity()
+         Generating method body for minusSign()
+         Generating method body for monetaryGroupingSeparator()
+         Generating method body for monetarySeparator()
+         Generating method body for percent()
+         Generating method body for percentPattern()
+         Generating method body for perMill()
+         Generating method body for plusSign()
+         Generating method body for scientificPattern()
+         Generating method body for simpleCurrencyPattern()
+         Generating method body for zeroDigit()
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding com.google.gwt.user.cellview.client.CellList.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.google.gwt.user.cellview.client.CellList.Template
+         Generating method body for div()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding com.google.gwt.user.cellview.client.CellList.Resources
+   Invoking generator com.google.gwt.resources.rebind.context.InlineClientBundleGenerator
+      Preparing method cellListSelectedBackground
+         Adding image 'com.google.gwt.user.cellview.client.CellList.Resources.cellListSelectedBackground'
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units

@@ -1,0 +1,2 @@
+serviceClass: com.team25project3.webapp.client.LoginService
+path: 991671F1E31F35BB1A67CE98073E4418.gwt.rpc

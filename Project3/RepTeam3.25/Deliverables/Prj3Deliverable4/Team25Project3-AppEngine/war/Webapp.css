@@ -1,0 +1,110 @@
+/** Add css rules here for your application. */
+
+
+/** Example rules used by the template application (remove for your app) */
+h1 {
+
+}
+
+.gwt-Button {
+  display: block;
+  font-size: 16pt;
+}
+
+.gwt-TextBox {
+  width: 200px;
+}
+
+.gwt-PasswordTextBox {
+  width: 200px;
+}
+
+/** Most GWT widgets already have a style name defined */
+.gwt-DialogBox {
+  width: 400px;
+}
+
+
+
+.gwt-center{
+	text-align: center; 
+}
+
+.dialogVPanel {
+  margin: 5px;
+}
+
+.serverResponseLabelError {
+  color: red;
+}
+
+.gwt-ScrollList{
+	border-style:solid;
+	border-width:5px;
+}
+
+.gwt-centerText{
+	text-align: center; 
+}
+
+.gwt-nameText{
+	margin-left: 5%;
+}
+
+
+.gwt-textArea{
+	resize: none;
+	margin-left: 5%;
+	width: 90%;
+}
+
+.gwt-dropBox{
+	margin-left: 5%;
+}
+
+
+/** Set ids using widget.getElement().setId("idOfElement") */
+#closeButton {
+  margin: 15px 6px 6px;
+}
+
+#headerImg{
+	margin-left: 40px; 
+	position: relative; top: -20px;
+	width:80px;
+	height:auto;	
+}
+
+#headerText{
+	position: relative; 
+	top: -100px; 
+	font-size: 2em;
+ 	font-weight: bold;
+  	color: #111111;  
+  	text-align: center;
+}
+
+#header{
+	margin:0;
+    padding:0;;
+	position: relative; top: 35px;
+    background-image: url("img/border.png");
+    background-size: 100px auto;
+    background-repeat:repeat-x;
+}
+
+#ToDoApp{
+	display: none;
+}
+
+
+#login{
+	border-style:solid; 
+	border-width:2px;
+	border-top-width:10px;
+	background-color:#C0C0C0;
+}
+
+
+
+

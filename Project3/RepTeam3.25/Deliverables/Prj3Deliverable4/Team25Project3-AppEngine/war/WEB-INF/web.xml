@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?><web-app xmlns="http://java.sun.com/xml/ns/javaee" xmlns:web="http://java.sun.com/xml/ns/javaee/web-app_2_5.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.5" xsi:schemaLocation="http://java.sun.com/xml/ns/javaee http://java.sun.com/xml/ns/javaee/web-app_2_5.xsd">
+  
+ <servlet>
+  <servlet-name>SystemServiceServlet</servlet-name>
+  <servlet-class>com.google.api.server.spi.SystemServiceServlet</servlet-class>
+  <init-param>
+   <param-name>services</param-name>
+   <param-value>com.team25project3.UserEndpoint,com.team25project3.TaskInfoEndpoint</param-value>
+  </init-param>
+ </servlet>
+ <servlet-mapping>
+  <servlet-name>SystemServiceServlet</servlet-name>
+  <url-pattern>/_ah/spi/*</url-pattern>
+ </servlet-mapping>
+ 
+  <servlet>
+    <servlet-name>registerServlet</servlet-name>
+    <servlet-class>com.team25project3.webapp.server.RegisterServiceImpl</servlet-class>
+  </servlet>
+  
+  <servlet-mapping>
+    <servlet-name>registerServlet</servlet-name>
+    <url-pattern>/webapp/register</url-pattern>
+  </servlet-mapping>
+  
+   <servlet>
+    <servlet-name>LoginServlet</servlet-name>
+    <servlet-class>com.team25project3.webapp.server.LoginServiceImpl</servlet-class>
+  </servlet>
+  
+  <servlet-mapping>
+    <servlet-name>LoginServlet</servlet-name>
+    <url-pattern>/webapp/login</url-pattern>
+  </servlet-mapping>
+    
+   <servlet>
+    <servlet-name>RetrieveServlet</servlet-name>
+    <servlet-class>com.team25project3.webapp.server.RetrieveTaskServiceImpl</servlet-class>
+  </servlet>
+  
+  <servlet-mapping>
+    <servlet-name>RetrieveServlet</servlet-name>
+    <url-pattern>/webapp/retrieve</url-pattern>
+  </servlet-mapping>
+  
+     <servlet>
+    <servlet-name>SaveServlet</servlet-name>
+    <servlet-class>com.team25project3.webapp.server.SaveTaskServiceImpl</servlet-class>
+  </servlet>
+  
+  <servlet-mapping>
+    <servlet-name>SaveServlet</servlet-name>
+    <url-pattern>/webapp/save</url-pattern>
+  </servlet-mapping>
+  
+  <!-- Default page to serve -->
+  <welcome-file-list>
+    <welcome-file>Webapp.html</welcome-file>
+  </welcome-file-list>
+  
+</web-app>

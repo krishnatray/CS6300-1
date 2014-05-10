@@ -1,0 +1,2 @@
+serviceClass: com.team25project3.webapp.client.SaveTaskService
+path: 34B07B7C9DA91F19ED33147B7666EC21.gwt.rpc

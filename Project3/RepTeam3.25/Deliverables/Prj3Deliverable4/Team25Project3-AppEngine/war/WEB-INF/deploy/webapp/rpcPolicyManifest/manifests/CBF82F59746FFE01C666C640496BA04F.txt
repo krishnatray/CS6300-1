@@ -1,0 +1,2 @@
+serviceClass: com.team25project3.webapp.client.RegisterService
+path: 635972DD963F5418D9200D536287AED1.gwt.rpc

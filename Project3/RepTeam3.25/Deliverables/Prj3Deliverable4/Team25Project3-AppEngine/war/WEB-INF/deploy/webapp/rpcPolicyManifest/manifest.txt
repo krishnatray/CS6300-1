@@ -1,0 +1,6 @@
+# Module webapp
+# RPC service class, partial path of RPC policy file
+com.team25project3.webapp.client.LoginService, 991671F1E31F35BB1A67CE98073E4418.gwt.rpc
+com.team25project3.webapp.client.SaveTaskService, 34B07B7C9DA91F19ED33147B7666EC21.gwt.rpc
+com.team25project3.webapp.client.RegisterService, 635972DD963F5418D9200D536287AED1.gwt.rpc
+com.team25project3.webapp.client.RetrieveTaskService, 5D530C18D0442C25C3517784499FD244.gwt.rpc

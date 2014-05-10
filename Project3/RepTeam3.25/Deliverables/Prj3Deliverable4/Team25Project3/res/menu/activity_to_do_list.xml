@@ -1,0 +1,14 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/menu_duedate" android:title="@string/sortbyduedate" 
+        ></item>
+    <item android:id="@+id/menu_priority" android:title="@string/sortbypriority"
+        ></item>
+    <item android:id="@+id/menu_changepwd" android:title="@string/changepwd"
+        ></item>
+    <item android:id="@+id/menu_sync" android:title="@string/sync"
+        ></item>
+    <item android:id="@+id/menu_logout" android:title="@string/logout"
+        ></item>
+    
+    
+</menu>

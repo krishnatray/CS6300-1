@@ -1,0 +1,272 @@
+{
+ "kind": "discovery#rpcDescription",
+ "etag": "\"ADiYQGKhdYR9rpbhIFHih-UBYRs/1RMmoUQZPrrz73hVyzrL0VX6KcQ\"",
+ "discoveryVersion": "v1",
+ "id": "taskinfoendpoint:v1",
+ "name": "taskinfoendpoint",
+ "version": "v1",
+ "description": "This is an API",
+ "ownerDomain": "team25project3.com",
+ "ownerName": "team25project3.com",
+ "icons": {
+  "x16": "http://www.google.com/images/icons/product/search-16.gif",
+  "x32": "http://www.google.com/images/icons/product/search-32.gif"
+ },
+ "protocol": "rpc",
+ "rootUrl": "https://team25p3.appspot.com/_ah/api/",
+ "rpcUrl": "https://team25p3.appspot.com/_ah/api/rpc",
+ "rpcPath": "/_ah/api/rpc",
+ "parameters": {
+  "alt": {
+   "type": "string",
+   "description": "Data format for the response.",
+   "default": "json",
+   "enum": [
+    "json"
+   ],
+   "enumDescriptions": [
+    "Responses with Content-Type of application/json"
+   ],
+   "location": "query"
+  },
+  "fields": {
+   "type": "string",
+   "description": "Selector specifying which fields to include in a partial response.",
+   "location": "query"
+  },
+  "key": {
+   "type": "string",
+   "description": "API key. Your API key identifies your project and provides you with API access, quota, and reports. Required unless you provide an OAuth 2.0 token.",
+   "location": "query"
+  },
+  "oauth_token": {
+   "type": "string",
+   "description": "OAuth 2.0 token for the current user.",
+   "location": "query"
+  },
+  "prettyPrint": {
+   "type": "boolean",
+   "description": "Returns response with indentations and line breaks.",
+   "default": "true",
+   "location": "query"
+  },
+  "quotaUser": {
+   "type": "string",
+   "description": "Available to use for quota purposes for server-side applications. Can be any arbitrary string assigned to a user, but should not exceed 40 characters. Overrides userIp if both are provided.",
+   "location": "query"
+  },
+  "userIp": {
+   "type": "string",
+   "description": "IP address of the site where the request originates. Use this if you want to enforce per-user limits.",
+   "location": "query"
+  }
+ },
+ "auth": {
+  "oauth2": {
+   "scopes": {
+    "https://www.googleapis.com/auth/userinfo.email": {
+     "description": "View your email address"
+    }
+   }
+  }
+ },
+ "schemas": {
+  "CollectionResponse_TaskInfo": {
+   "id": "CollectionResponse_TaskInfo",
+   "type": "object",
+   "properties": {
+    "items": {
+     "type": "array",
+     "items": {
+      "$ref": "TaskInfo"
+     }
+    },
+    "nextPageToken": {
+     "type": "string"
+    }
+   }
+  },
+  "TaskInfo": {
+   "id": "TaskInfo",
+   "type": "object",
+   "properties": {
+    "checked": {
+     "type": "integer",
+     "format": "int32"
+    },
+    "dueTime": {
+     "type": "string"
+    },
+    "id": {
+     "type": "string"
+    },
+    "lastUpdated": {
+     "type": "string"
+    },
+    "name": {
+     "type": "string"
+    },
+    "noDueTime": {
+     "type": "integer",
+     "format": "int32"
+    },
+    "note": {
+     "type": "string"
+    },
+    "priority": {
+     "type": "integer",
+     "format": "int32"
+    },
+    "userId": {
+     "type": "string"
+    }
+   }
+  }
+ },
+ "methods": {
+  "taskinfoendpoint.getTaskInfo": {
+   "id": "taskinfoendpoint.getTaskInfo",
+   "allowGet": true,
+   "parameters": {
+    "id": {
+     "type": "string",
+     "required": true
+    }
+   },
+   "parameterOrder": [
+    "id"
+   ],
+   "returns": {
+    "$ref": "TaskInfo"
+   },
+   "scopes": [
+    "https://www.googleapis.com/auth/userinfo.email"
+   ]
+  },
+  "taskinfoendpoint.insertTaskInfo": {
+   "id": "taskinfoendpoint.insertTaskInfo",
+   "parameters": {
+    "resource": {
+     "$ref": "TaskInfo"
+    }
+   },
+   "parameterOrder": [
+    "resource"
+   ],
+   "returns": {
+    "$ref": "TaskInfo"
+   },
+   "scopes": [
+    "https://www.googleapis.com/auth/userinfo.email"
+   ]
+  },
+  "taskinfoendpoint.listTaskInfo": {
+   "id": "taskinfoendpoint.listTaskInfo",
+   "allowGet": true,
+   "parameters": {
+    "cursor": {
+     "type": "string"
+    },
+    "limit": {
+     "type": "integer",
+     "format": "int32"
+    }
+   },
+   "returns": {
+    "$ref": "CollectionResponse_TaskInfo"
+   },
+   "scopes": [
+    "https://www.googleapis.com/auth/userinfo.email"
+   ]
+  },
+  "taskinfoendpoint.listTaskInfoSync": {
+   "id": "taskinfoendpoint.listTaskInfoSync",
+   "allowGet": true,
+   "parameters": {
+    "cursor": {
+     "type": "string"
+    },
+    "limit": {
+     "type": "integer",
+     "format": "int32"
+    },
+    "synctime": {
+     "type": "string",
+     "required": true
+    }
+   },
+   "parameterOrder": [
+    "synctime"
+   ],
+   "returns": {
+    "$ref": "CollectionResponse_TaskInfo"
+   },
+   "scopes": [
+    "https://www.googleapis.com/auth/userinfo.email"
+   ]
+  },
+  "taskinfoendpoint.listTaskInfoSyncUser": {
+   "id": "taskinfoendpoint.listTaskInfoSyncUser",
+   "allowGet": true,
+   "parameters": {
+    "cursor": {
+     "type": "string"
+    },
+    "limit": {
+     "type": "integer",
+     "format": "int32"
+    },
+    "synctime": {
+     "type": "string",
+     "required": true
+    },
+    "uID": {
+     "type": "string",
+     "required": true
+    }
+   },
+   "parameterOrder": [
+    "synctime",
+    "uID"
+   ],
+   "returns": {
+    "$ref": "CollectionResponse_TaskInfo"
+   },
+   "scopes": [
+    "https://www.googleapis.com/auth/userinfo.email"
+   ]
+  },
+  "taskinfoendpoint.removeTaskInfo": {
+   "id": "taskinfoendpoint.removeTaskInfo",
+   "parameters": {
+    "id": {
+     "type": "string",
+     "required": true
+    }
+   },
+   "parameterOrder": [
+    "id"
+   ],
+   "scopes": [
+    "https://www.googleapis.com/auth/userinfo.email"
+   ]
+  },
+  "taskinfoendpoint.updateTaskInfo": {
+   "id": "taskinfoendpoint.updateTaskInfo",
+   "parameters": {
+    "resource": {
+     "$ref": "TaskInfo"
+    }
+   },
+   "parameterOrder": [
+    "resource"
+   ],
+   "returns": {
+    "$ref": "TaskInfo"
+   },
+   "scopes": [
+    "https://www.googleapis.com/auth/userinfo.email"
+   ]
+  }
+ }
+}

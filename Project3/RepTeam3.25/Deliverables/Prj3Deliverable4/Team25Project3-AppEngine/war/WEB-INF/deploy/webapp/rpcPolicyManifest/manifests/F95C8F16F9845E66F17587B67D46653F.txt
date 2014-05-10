@@ -1,0 +1,2 @@
+serviceClass: com.team25project3.webapp.client.RetrieveTaskService
+path: 5D530C18D0442C25C3517784499FD244.gwt.rpc

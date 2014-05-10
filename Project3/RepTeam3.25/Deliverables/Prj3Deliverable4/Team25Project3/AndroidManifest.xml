@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?><manifest xmlns:android="http://schemas.android.com/apk/res/android" android:versionCode="1" android:versionName="1.0" package="com.team25project3">
+
+    <uses-sdk android:minSdkVersion="14" android:targetSdkVersion="19"/>
+
+    <uses-permission android:name="android.permission.INTERNET"/>
+   <permission android:name="com.team25project3.permission.C2D_MESSAGE" android:protectionLevel="signature"/>
+
+   <uses-permission android:name="com.team25project3.permission.C2D_MESSAGE"/>
+   <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE"/>
+   <uses-permission android:name="android.permission.WAKE_LOCK"/>
+   <uses-permission android:name="android.permission.GET_ACCOUNTS"/>
+   <uses-permission android:name="android.permission.USE_CREDENTIALS"/>
+   <application
+        android:icon="@drawable/ic_launcher_web"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="com.team25project3.MainActivity"
+            android:label="@string/title_activity_main" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.team25project3.AddUserActivity"
+            android:label="@string/title_activity_add_user" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.team25project3.MainActivity" />
+        </activity>
+        <activity
+            android:name="com.team25project3.ToDoListActivity"
+            android:label="@string/title_activity_to_do_list" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.team25project3.MainActivity" />
+        </activity>
+        <activity
+            android:name="com.team25project3.EditItemActivity"
+            android:label="@string/title_activity_edit_item" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.team25project3.ToDoListActivity" />
+        </activity>
+        <service android:name="com.team25project3.GCMIntentService"/>
+        <receiver android:name="com.google.android.gcm.GCMBroadcastReceiver" android:permission="com.google.android.c2dm.permission.SEND">
+            <intent-filter>
+                <action android:name="com.google.android.c2dm.intent.RECEIVE"/>
+                <category android:name="com.team25project3"/>
+            </intent-filter>
+            <intent-filter>
+                <action android:name="com.google.android.c2dm.intent.REGISTRATION"/>
+                <category android:name="com.team25project3"/>
+            </intent-filter>
+        </receiver>
+    </application>
+   
+
+</manifest>

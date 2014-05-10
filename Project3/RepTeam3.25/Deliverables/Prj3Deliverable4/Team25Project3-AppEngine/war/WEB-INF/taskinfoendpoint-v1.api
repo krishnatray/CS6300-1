@@ -1,0 +1,283 @@
+{
+  "extends" : "thirdParty.api",
+  "abstract" : false,
+  "root" : "https://team25p3.appspot.com/_ah/api",
+  "name" : "taskinfoendpoint",
+  "version" : "v1",
+  "defaultVersion" : false,
+  "adapter" : {
+    "bns" : "https://team25p3.appspot.com/_ah/spi",
+    "deadline" : 65.0,
+    "type" : "lily"
+  },
+  "auth" : {
+    "allowCookieAuth" : false
+  },
+  "frontendLimits" : {
+    "unregisteredUserQps" : -1,
+    "unregisteredQps" : -1,
+    "unregisteredDaily" : -1,
+    "rules" : [ ]
+  },
+  "cacheControl" : {
+    "type" : "no-cache",
+    "maxAge" : 0
+  },
+  "ownerDomain" : "team25project3.com",
+  "ownerName" : "team25project3.com",
+  "methods" : {
+    "taskinfoendpoint.updateTaskInfo" : {
+      "path" : "taskinfo",
+      "httpMethod" : "PUT",
+      "authLevel" : "NONE",
+      "scopes" : [ "https://www.googleapis.com/auth/userinfo.email" ],
+      "audiences" : [ ],
+      "clientIds" : [ "292824132082.apps.googleusercontent.com" ],
+      "rosyMethod" : "com.team25project3.TaskInfoEndpoint.updateTaskInfo",
+      "request" : {
+        "body" : "autoTemplate(backendRequest)",
+        "bodyName" : "resource"
+      },
+      "response" : {
+        "body" : "autoTemplate(backendResponse)"
+      }
+    },
+    "taskinfoendpoint.removeTaskInfo" : {
+      "path" : "taskinfo/{id}",
+      "httpMethod" : "DELETE",
+      "authLevel" : "NONE",
+      "scopes" : [ "https://www.googleapis.com/auth/userinfo.email" ],
+      "audiences" : [ ],
+      "clientIds" : [ "292824132082.apps.googleusercontent.com" ],
+      "rosyMethod" : "com.team25project3.TaskInfoEndpoint.removeTaskInfo",
+      "request" : {
+        "parameters" : {
+          "id" : {
+            "type" : "string",
+            "required" : true
+          }
+        },
+        "body" : "empty"
+      },
+      "response" : {
+        "body" : "empty"
+      }
+    },
+    "taskinfoendpoint.listTaskInfo" : {
+      "path" : "taskinfo1",
+      "httpMethod" : "GET",
+      "authLevel" : "NONE",
+      "scopes" : [ "https://www.googleapis.com/auth/userinfo.email" ],
+      "audiences" : [ ],
+      "clientIds" : [ "292824132082.apps.googleusercontent.com" ],
+      "rosyMethod" : "com.team25project3.TaskInfoEndpoint.listTaskInfo",
+      "request" : {
+        "parameters" : {
+          "cursor" : {
+            "type" : "string",
+            "required" : false
+          },
+          "limit" : {
+            "type" : "int32",
+            "required" : false
+          }
+        },
+        "body" : "empty"
+      },
+      "response" : {
+        "body" : "autoTemplate(backendResponse)"
+      }
+    },
+    "taskinfoendpoint.listTaskInfoSyncUser" : {
+      "path" : "taskinfo3",
+      "httpMethod" : "GET",
+      "authLevel" : "NONE",
+      "scopes" : [ "https://www.googleapis.com/auth/userinfo.email" ],
+      "audiences" : [ ],
+      "clientIds" : [ "292824132082.apps.googleusercontent.com" ],
+      "rosyMethod" : "com.team25project3.TaskInfoEndpoint.listTaskInfoSyncUser",
+      "request" : {
+        "parameters" : {
+          "synctime" : {
+            "type" : "string",
+            "required" : true
+          },
+          "uID" : {
+            "type" : "string",
+            "required" : true
+          },
+          "cursor" : {
+            "type" : "string",
+            "required" : false
+          },
+          "limit" : {
+            "type" : "int32",
+            "required" : false
+          }
+        },
+        "body" : "empty"
+      },
+      "response" : {
+        "body" : "autoTemplate(backendResponse)"
+      }
+    },
+    "taskinfoendpoint.listTaskInfoSync" : {
+      "path" : "taskinfo2",
+      "httpMethod" : "GET",
+      "authLevel" : "NONE",
+      "scopes" : [ "https://www.googleapis.com/auth/userinfo.email" ],
+      "audiences" : [ ],
+      "clientIds" : [ "292824132082.apps.googleusercontent.com" ],
+      "rosyMethod" : "com.team25project3.TaskInfoEndpoint.listTaskInfoSync",
+      "request" : {
+        "parameters" : {
+          "synctime" : {
+            "type" : "string",
+            "required" : true
+          },
+          "cursor" : {
+            "type" : "string",
+            "required" : false
+          },
+          "limit" : {
+            "type" : "int32",
+            "required" : false
+          }
+        },
+        "body" : "empty"
+      },
+      "response" : {
+        "body" : "autoTemplate(backendResponse)"
+      }
+    },
+    "taskinfoendpoint.getTaskInfo" : {
+      "path" : "taskinfo/{id}",
+      "httpMethod" : "GET",
+      "authLevel" : "NONE",
+      "scopes" : [ "https://www.googleapis.com/auth/userinfo.email" ],
+      "audiences" : [ ],
+      "clientIds" : [ "292824132082.apps.googleusercontent.com" ],
+      "rosyMethod" : "com.team25project3.TaskInfoEndpoint.getTaskInfo",
+      "request" : {
+        "parameters" : {
+          "id" : {
+            "type" : "string",
+            "required" : true
+          }
+        },
+        "body" : "empty"
+      },
+      "response" : {
+        "body" : "autoTemplate(backendResponse)"
+      }
+    },
+    "taskinfoendpoint.insertTaskInfo" : {
+      "path" : "taskinfo",
+      "httpMethod" : "POST",
+      "authLevel" : "NONE",
+      "scopes" : [ "https://www.googleapis.com/auth/userinfo.email" ],
+      "audiences" : [ ],
+      "clientIds" : [ "292824132082.apps.googleusercontent.com" ],
+      "rosyMethod" : "com.team25project3.TaskInfoEndpoint.insertTaskInfo",
+      "request" : {
+        "body" : "autoTemplate(backendRequest)",
+        "bodyName" : "resource"
+      },
+      "response" : {
+        "body" : "autoTemplate(backendResponse)"
+      }
+    }
+  },
+  "descriptor" : {
+    "schemas" : {
+      "TaskInfo" : {
+        "id" : "TaskInfo",
+        "type" : "object",
+        "properties" : {
+          "id" : {
+            "type" : "string"
+          },
+          "name" : {
+            "type" : "string"
+          },
+          "note" : {
+            "type" : "string"
+          },
+          "checked" : {
+            "type" : "integer"
+          },
+          "priority" : {
+            "type" : "integer"
+          },
+          "userId" : {
+            "type" : "string"
+          },
+          "dueTime" : {
+            "type" : "string"
+          },
+          "noDueTime" : {
+            "type" : "integer"
+          },
+          "lastUpdated" : {
+            "type" : "string"
+          }
+        }
+      },
+      "CollectionResponse_TaskInfo" : {
+        "id" : "CollectionResponse_TaskInfo",
+        "type" : "object",
+        "properties" : {
+          "items" : {
+            "type" : "array",
+            "items" : {
+              "$ref" : "TaskInfo"
+            }
+          },
+          "nextPageToken" : {
+            "type" : "string"
+          }
+        }
+      }
+    },
+    "methods" : {
+      "com.team25project3.TaskInfoEndpoint.updateTaskInfo" : {
+        "request" : {
+          "$ref" : "TaskInfo"
+        },
+        "response" : {
+          "$ref" : "TaskInfo"
+        }
+      },
+      "com.team25project3.TaskInfoEndpoint.removeTaskInfo" : {
+      },
+      "com.team25project3.TaskInfoEndpoint.listTaskInfo" : {
+        "response" : {
+          "$ref" : "CollectionResponse_TaskInfo"
+        }
+      },
+      "com.team25project3.TaskInfoEndpoint.listTaskInfoSyncUser" : {
+        "response" : {
+          "$ref" : "CollectionResponse_TaskInfo"
+        }
+      },
+      "com.team25project3.TaskInfoEndpoint.listTaskInfoSync" : {
+        "response" : {
+          "$ref" : "CollectionResponse_TaskInfo"
+        }
+      },
+      "com.team25project3.TaskInfoEndpoint.getTaskInfo" : {
+        "response" : {
+          "$ref" : "TaskInfo"
+        }
+      },
+      "com.team25project3.TaskInfoEndpoint.insertTaskInfo" : {
+        "request" : {
+          "$ref" : "TaskInfo"
+        },
+        "response" : {
+          "$ref" : "TaskInfo"
+        }
+      }
+    }
+  }
+}
